@@ -12,3 +12,12 @@ out/
 
 # OS/editor
 .DS_Store
+# Run artifacts & logs
+logs/
+fetch_snapshots/
+*.log
+
+# Big/temporary
+*.zip
+*.docx
+.ipynb_checkpoints/

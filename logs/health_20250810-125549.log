@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "/Users/aziz/Desktop/A Team Local File/V Candle Project Mac Drive/Sprint 10 Lucid Engine/Modular Scanner_Finalized/post_fetch_health_check.py", line 77, in <module>
-    snap = d.query(snap_q).to_df()
-duckdb.duckdb.CatalogException: Catalog Error: Scalar Function with name filename does not exist!
-Did you mean "finalize"?
