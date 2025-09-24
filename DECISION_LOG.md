@@ -6,6 +6,22 @@
 
 ## Decision Log Entries
 
+### 2024-12-19 - Git Workflow Implementation
+**Context:** Setting up controlled Git workflow for Triad v2 collaboration
+**Decision:** Implement GitFlow-inspired branching with PR-based integration
+**Rationale:** Enables rapid experimentation while maintaining code quality and clear handoff points
+**Impact:** Sonny can iterate fast on feature branches, Amy reviews before integration, Aziz gets polished outputs
+**Decision Maker:** Amy (Architect)
+**Status:** Active
+
+### 2024-12-19 - Market Pulse System Architecture
+**Context:** Need for daily market overview reports with executive summaries
+**Decision:** Create orchestrator pattern with market_pulse.yaml coordinating slopes_benchmark and coil_spring
+**Rationale:** Leverages existing proven infrastructure while adding executive layer for strategic review
+**Impact:** Aziz gets daily market pulse reports with bold/green formatting and mobile-friendly summaries
+**Decision Maker:** Amy (Architect)
+**Status:** Active
+
 ### [YYYY-MM-DD] - [Decision Title]
 **Context:** [Brief description of the situation/problem]
 **Decision:** [What was decided]
