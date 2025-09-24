@@ -1,0 +1,84 @@
+# coil_spring_stage1_only.yaml (v2) - Stage 1 Only Pipeline
+# Created: 2025-09-21
+# Last Edited: 2025-09-21
+#
+# Purpose:
+# Focus on Stage 1 (1h coil detection) only for practical trading results.
+# This configuration bypasses the 4h matching issue while we investigate.
+#
+# Pipeline Stages:
+# 1. coil_1h: Detect tight coil formation on 1h timeframe
+# 2. match_4h: DISABLED (investigating 4h data issues)
+# 3. confirm_1d: DISABLED (focus on 1h analysis first)
+
+control:
+  enabled_stages: ["coil_1h"]  # ONLY Stage 1 enabled
+  benchmark: false  # Set to true to disable all filters
+
+universe:
+  regex: ".*"
+  exclude_symbols:
+    # Stablecoins
+    - EURUSDT
+    - EURIUSDT
+    - FDUSDUSDT
+    - USD1USDT
+    - USDCUSDT
+    - BUSDUSDT
+    - TUSDUSDT
+    - DAIUSDT
+    - USDPUSDT
+    - PAXGUSDT
+    - BFUSDUSDT
+    - USDEUSDT
+    # Barcode coins (low volatility, flat price action)
+    - BTTCUSDT
+    - XUSDUSDT
+
+# Global feature definitions (used across all timeframes)
+features:
+  ema_fast: 21
+  ema_mid_fast: 40
+  sma_mid_slow: 50
+  sma_slow: 150
+  atr_window: 14
+  slope_window: 100
+
+# Stage 1: 1h Coil Detection - OPTIMIZED FOR CURRENT MARKET
+coil_1h:
+  price_col: close
+  
+  # Coil tightness criteria - BASED ON BENCHMARK ANALYSIS
+  max_fast3_width_pct: 2.0      # EMA21–EMA40–SMA50 tightness on 1h
+  min_bars_in_coil: 3            # consecutive bars meeting width cap
+  max_tr_range_atr: 1.2          # volatility guard - ADJUSTED for high volatility
+  
+  # Optional: require upward micro-bias
+  min_ma21_slope_pct: -0.10     # e.g., allow slightly flat/down (−0.10%)
+
+# Stage 2: 4h Matching - DISABLED
+match_4h:
+  mode: "either"
+  max_fast3_width_pct: 10.0
+  min_bars_in_coil: 1
+  min_ma21_slope_pct: -0.5
+  min_ma50_slope_pct: -0.5
+
+# Stage 3: Daily Confirmation - DISABLED
+confirm_1d:
+  min_sma150_slope_pct: 0.0
+  tolerance_pct: 0.0
+
+# Output configuration
+outputs:
+  save_watchlists: true
+  out_dir: "out"
+  rules: ["1h:coil_pass"]  # Only Stage 1 rules
+
+# Configuration Rationale:
+# - Focus on Stage 1 only to get practical trading results
+# - Parameters optimized based on benchmark analysis:
+#   - max_tr_range_atr: 1.2 (allows 170+ more symbols)
+#   - min_bars_in_coil: 3 (reduced from 10 for flexibility)
+#   - max_fast3_width_pct: 2.0 (working well, only 38 symbols fail)
+# - Expected result: ~220+ symbols passing Stage 1

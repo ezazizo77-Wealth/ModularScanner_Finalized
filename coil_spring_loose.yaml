@@ -1,0 +1,52 @@
+# Loose Strategy - DEXEUSDT Optimized
+# Based on reverse engineering DEXEUSDT Sep 13-17, 2024 characteristics
+# Allows higher volatility and wider coils for volatile assets
+
+control:
+  enabled_stages: ["coil_1h", "match_4h", "confirm_1d"]
+  benchmark: false
+
+universe:
+  regex: ".*"
+  exclude_symbols:
+    - EUR/USDT
+    - EURI/USDT
+    - FDUSD/USDT
+    - USD1/USDT
+    - USDC/USDT
+    - BUSD/USDT
+    - TUSD/USDT
+    - DAI/USDT
+
+features:
+  ema_fast: 21
+  ema_mid_fast: 40
+  sma_mid_slow: 50
+  sma_slow: 150
+  atr_window: 14
+  slope_window: 100
+
+coil_1h:
+  price_col: close
+  max_fast3_width_pct: 6.0      # Loose bundle (vs 2.0% tight)
+  min_bars_in_coil: 1           # Minimal persistence (vs 12 tight)
+  max_tr_range_atr: 3.0         # High volatility allowed (vs 1.0 tight)
+  min_ma21_slope_pct: -5.0      # Allow significant down bias (vs 0.0 tight)
+  require_sma150_slope_bps_min: -10.0  # Very permissive slope
+
+match_4h:
+  mode: "and"                   # Both conditions required
+  max_fast3_width_pct: 8.0      # Loose 4h coil (vs 6.0 conservative)
+  min_bars_in_coil: 2          # Short persistence (vs 6 conservative)
+  min_ma21_slope_pct: -3.0     # Allow down bias (vs 0.2 conservative)
+  min_ma50_slope_pct: -2.0     # Allow down bias (vs 0.1 conservative)
+  max_tr_range_atr: 2.5        # High volatility allowed (vs 1.2 standard)
+
+confirm_1d:
+  min_sma150_slope_pct: -8.0   # Very permissive daily trend (vs 0.1 conservative)
+  tolerance_pct: 2.0           # Allow tolerance (vs 0.0 conservative)
+
+outputs:
+  save_watchlists: true
+  out_dir: "out"
+  rules: ["1h:coil_pass", "4h:match_pass", "1d:confirm_pass"]

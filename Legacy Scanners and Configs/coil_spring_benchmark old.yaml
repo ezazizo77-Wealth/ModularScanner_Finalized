@@ -1,0 +1,67 @@
+# coil_spring_benchmark.yaml
+# Created: 2025-09-14
+# Last Edited: 2025-09-15
+#
+# Purpose:
+# Benchmark mode for Coil & Spring scanner.
+# - Runs calculations for all symbols in the universe.
+# - Filters (width, persistence, ATR, slope) are bypassed when control.benchmark=true.
+# - Used to observe the entire market structure without prematurely filtering.
+#
+# Notes:
+# - Daily confirm disabled by default in benchmark runs.
+# - Stablecoins are excluded so output stays focused on tradable assets.
+
+control:
+  benchmark: true              # If true → ignore filters, still compute all metrics
+  use_daily_confirm: false     # Keep off for pure benchmarking
+
+universe:
+  regex: ".*"                  # Scan all symbols from parquet
+  exclude_symbols:
+    - EUR/USDT
+    - EURI/USDT
+    - FDUSD/USDT
+    - PUNDIX/USDT
+    - USD1/USDT
+    - USDC/USDT
+    - BUSD/USDT
+    - TUSD/USDT
+    - DAI/USDT
+    # add more stables as needed (USDe/USDT, FDUSD/USDC, etc.)
+
+coil_1h:
+  price_col: close
+
+  # TBO ribbon
+  ema_fast: 21
+  ema_mid_fast: 40
+  sma_mid_slow: 50
+  sma_slow: 150
+
+  # Feature windows
+  slope_window: 100
+  bb_window: 20
+  bb_k: 2.0
+  atr_window: 14
+
+  # ── FILTERS (ignored if control.benchmark=true) ──
+  max_fast3_width_pct: 3.0   # Tightness of EMA21–EMA40–SMA50 bundle
+  min_bars_in_coil: 10       # Persistence of tightness
+  max_tr_range_atr: 1.2      # Wick/noise guard (volatility filter)
+  require_sma150_slope_bps_min: 0  # 0 = flat-or-up; negative allows slight down
+
+  # Optional volume expansion (kept off in benchmark)
+  volume:
+    enabled: false
+    sma_window: 20
+    expansion_ratio_min: 1.5
+
+daily_confirm_1d:
+  # Disabled in benchmark mode; retained for later use
+  price_col: close
+  flat_sma_window: 150
+  flat_sma_slope_bps_max: 15
+  tight_cloud_bb_window: 20
+  tight_cloud_bb_k: 2.0
+  tight_cloud_pct_max: 8.0

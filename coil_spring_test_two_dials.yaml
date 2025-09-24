@@ -1,0 +1,81 @@
+# coil_spring_test_two_dials.yaml (v2) - Test Configuration for Two Dials Only
+# Created: 2025-09-21
+# Last Edited: 2025-09-21
+#
+# Purpose:
+# Test configuration with ONLY two dials active to confirm estimates:
+# 1. max_fast3_width_pct: 2.0%
+# 2. max_tr_range_atr: 1.2
+# All other parameters disabled for testing
+
+control:
+  enabled_stages: ["coil_1h"]  # ONLY Stage 1 enabled
+  benchmark: false  # Set to true to disable all filters
+
+universe:
+  regex: ".*"
+  exclude_symbols:
+    # Stablecoins
+    - EURUSDT
+    - EURIUSDT
+    - FDUSDUSDT
+    - USD1USDT
+    - USDCUSDT
+    - BUSDUSDT
+    - TUSDUSDT
+    - DAIUSDT
+    - USDPUSDT
+    - PAXGUSDT
+    - BFUSDUSDT
+    # Barcode coins (low volatility, flat price action)
+    - BTTCUSDT
+    - XUSDUSDT
+
+# Global feature definitions (used across all timeframes)
+features:
+  ema_fast: 21
+  ema_mid_fast: 40
+  sma_mid_slow: 50
+  sma_slow: 150
+  atr_window: 14
+  slope_window: 100
+
+# Stage 1: 1h Coil Detection - ONLY TWO DIALS ACTIVE
+coil_1h:
+  price_col: close
+  
+  # DIAL 1: Coil tightness criteria - ACTIVE
+  max_fast3_width_pct: 2.0      # EMA21–EMA40–SMA50 tightness on 1h
+  
+  # DIAL 2: Volatility guard - ACTIVE  
+  max_tr_range_atr: 1.2          # volatility guard (true-range/ATR)
+  
+  # OTHER PARAMETERS SET TO VERY PERMISSIVE VALUES FOR TESTING
+  min_bars_in_coil: 1            # Very permissive - only 1 bar needed
+  min_ma21_slope_pct: -10.0      # Very permissive - allows any slope
+
+# Stage 2: 4h Matching - DISABLED
+match_4h:
+  mode: "either"
+  max_fast3_width_pct: 10.0
+  min_bars_in_coil: 1
+  min_ma21_slope_pct: -0.5
+  min_ma50_slope_pct: -0.5
+
+# Stage 3: Daily Confirmation - DISABLED
+confirm_1d:
+  min_sma150_slope_pct: 0.0
+  tolerance_pct: 0.0
+
+# Output configuration
+outputs:
+  save_watchlists: true
+  out_dir: "out"
+  rules: ["1h:coil_pass"]  # Only Stage 1 rules
+
+# Test Purpose:
+# Confirm estimates for two dials only:
+# - Expected: ~320 symbols (79% of universe)
+# - DIAL 1: max_fast3_width_pct: 2.0% (89% pass rate)
+# - DIAL 2: max_tr_range_atr: 1.2 (95.4% pass rate)
+# - Combined: ~79% of 405 symbols = ~320 symbols

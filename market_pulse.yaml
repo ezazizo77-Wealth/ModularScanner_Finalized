@@ -1,0 +1,114 @@
+# market_pulse.yaml
+# Created: 2024-12-19
+# Last Edited: 2024-12-19
+#
+# Purpose:
+# Daily Market Pulse Report - orchestrates slopes_benchmark and coil_spring
+# to generate executive summary for strategic market overview.
+#
+# Outputs:
+# - market_pulse_YYYY-MM-DD.xlsx (with Executive Summary worksheet)
+# - market_pulse_top20_symbols.txt (TradingView import format)
+# - market_pulse_top20_detailed.txt (human-readable with slope values)
+# - market_pulse_exec_summary.txt (mobile/Speechify-friendly)
+
+control:
+  benchmark: true              # Enable benchmarking mode
+  generate_exec_summary: true  # Generate executive summary layer
+  generate_top20: true         # Generate top 20 performers
+  generate_coil_summary: true  # Generate coil candidates summary
+
+universe:
+  regex: ".*"                  # Scan all symbols from parquet
+  exclude_symbols:
+    - EURUSDT
+    - EURIUSDT
+    - FDUSDUSDT
+    - PUNDIXUSDT
+    - USD1USDT
+    - USDCUSDT
+    - BUSDUSDT
+    - TUSDUSDT
+    - DAIUSDT
+    - USDEUSDT
+    - BFUSDUSDT
+    - USDPUSDT
+    - AEURUSDT
+    - XUSDUSDT
+
+# TBO ribbon moving averages (inherited from slopes_benchmark)
+ema_fast: 21
+ema_mid_fast: 40
+sma_mid_slow: 50
+sma_slow: 150
+
+# Feature windows
+slope_window: 100
+
+# Executive Summary Configuration
+exec_summary:
+  trend_deadzone_pct: 0.25     # |slope| < 0.25% -> flat "FLAT"
+  top20_count: 20             # Number of top performers to highlight
+  timeframes: ["1h", "4h", "1d"]  # Timeframes to analyze
+  
+  # Excel formatting
+  excel_formatting:
+    header_font_size: 18
+    header_color: "green"
+    section_font_size: 16
+    data_font_size: 14
+    
+  # Text output formatting
+  text_formatting:
+    max_line_length: 80
+    use_emojis: true
+    include_timestamps: true
+
+# Coil Spring Configuration (inherited from coil_spring.yaml)
+coil_spring:
+  enabled_stages: ["coil_1h", "match_4h", "confirm_1d"]
+  
+  # Stage 1: 1h Coil Detection
+  coil_1h:
+    max_fast3_width_pct: 3.0
+    min_bars_in_coil: 10
+    max_tr_range_atr: 1.2
+    min_ma21_slope_pct: -0.10
+    
+  # Stage 2: 4h Matching
+  match_4h:
+    mode: "either"
+    max_fast3_width_pct: 8.0
+    min_bars_in_coil: 4
+    min_ma21_slope_pct: 0.0
+    min_ma50_slope_pct: 0.0
+    
+  # Stage 3: Daily Confirmation
+  confirm_1d:
+    min_sma150_slope_pct: 0.0
+    tolerance_pct: 0.0
+
+# Output Configuration
+outputs:
+  base_filename: "market_pulse"
+  date_format: "%Y-%m-%d"
+  out_dir: "out"
+  
+  # Excel outputs
+  excel:
+    include_exec_summary: true
+    include_slopes_data: true
+    include_coil_data: true
+    
+  # Text outputs
+  text:
+    top20_symbols: true
+    top20_detailed: true
+    exec_summary: true
+    
+  # File naming
+  files:
+    excel: "{base_filename}_{date}.xlsx"
+    top20_symbols: "{base_filename}_top20_symbols.txt"
+    top20_detailed: "{base_filename}_top20_detailed.txt"
+    exec_summary: "{base_filename}_exec_summary.txt"

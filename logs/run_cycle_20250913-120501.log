@@ -1,0 +1,16 @@
+[CRON START] 2025-09-13 12:05:01 UTC (ts=20250913-120501)
+=== Run started at 20250913-120501 ===
+>>> Running fetch at 20250913-120501...
+📦 Fetch v3.0.0 started at 12:05:05 UTC
+🔧 Full refresh: False, Workers: 5, Top N: 0
+📁 Output dir: ohlcv_parquet, Timeframes: ['1h', '4h', '1d']
+📊 Fetched 526 symbols
+
+✅ 1h: 518331 rows
+
+✅ 4h: 505079 rows
+
+✅ 1d: 409660 rows
+🎯 Done in 133.0s | Total rows: 1433070
+>>> Running health check at 20250913-120501...
+=== Run completed at 20250913-120720 ===

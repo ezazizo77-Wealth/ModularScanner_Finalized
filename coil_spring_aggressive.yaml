@@ -1,0 +1,49 @@
+# Aggressive Strategy - More Signals
+# Use this for screening and research with looser criteria
+
+control:
+  enabled_stages: ["coil_1h", "match_4h"]  # Skip daily confirmation
+  benchmark: false
+
+universe:
+  regex: ".*"
+  exclude_symbols:
+    - EUR/USDT
+    - EURI/USDT
+    - FDUSD/USDT
+    - USD1/USDT
+    - USDC/USDT
+    - BUSD/USDT
+    - TUSD/USDT
+    - DAI/USDT
+
+features:
+  ema_fast: 21
+  ema_mid_fast: 40
+  sma_mid_slow: 50
+  sma_slow: 150
+  atr_window: 14
+  slope_window: 100
+
+coil_1h:
+  price_col: close
+  max_fast3_width_pct: 5.0      # Loose bundle
+  min_bars_in_coil: 5          # Short persistence
+  max_tr_range_atr: 1.5        # Allow higher volatility
+  min_ma21_slope_pct: -0.2     # Allow slight down bias
+
+match_4h:
+  mode: "either"               # Either condition
+  max_fast3_width_pct: 12.0   # Very loose 4h coil
+  min_bars_in_coil: 3         # Very short persistence
+  min_ma21_slope_pct: -0.2    # Allow slight down
+  min_ma50_slope_pct: -0.1    # Allow slight down
+
+# confirm_1d:                  # Disabled for aggressive strategy
+#   min_sma150_slope_pct: 0.0
+#   tolerance_pct: 0.0
+
+outputs:
+  save_watchlists: true
+  out_dir: "out"
+  rules: ["1h:coil_pass", "4h:match_pass"]

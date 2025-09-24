@@ -1,0 +1,35 @@
+# Test config with no exclusions
+control:
+  benchmark: true
+  use_daily_confirm: false
+
+universe:
+  regex: ".*"
+  exclude_symbols: []  # No exclusions
+
+coil_1h:
+  price_col: close
+  ema_fast: 21
+  ema_mid_fast: 40
+  sma_mid_slow: 50
+  sma_slow: 150
+  slope_window: 100
+  bb_window: 20
+  bb_k: 2.0
+  atr_window: 14
+  max_fast3_width_pct: 3.0
+  min_bars_in_coil: 10
+  max_tr_range_atr: 1.2
+  require_sma150_slope_bps_min: 0
+  volume:
+    enabled: false
+    sma_window: 20
+    expansion_ratio_min: 1.5
+
+daily_confirm_1d:
+  price_col: close
+  flat_sma_window: 150
+  flat_sma_slope_bps_max: 15
+  tight_cloud_bb_window: 20
+  tight_cloud_bb_k: 2.0
+  tight_cloud_pct_max: 8.0

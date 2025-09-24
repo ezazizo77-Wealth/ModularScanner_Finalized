@@ -1,0 +1,73 @@
+"""
+analyze_slope_from_parquet.py
+Version: 1.1.0
+Author: A-Team (Aziz + Amy)
+
+🔍 Description:
+Loads OHLCV Parquet files for selected timeframes, calculates the slope of the 'close' price
+over a defined lookback period, and saves the results (symbol, tf, slope %, direction) to a
+timestamped CSV file for reporting or further analysis.
+
+✨ Updates:
+- Output file now includes timestamp to avoid overwrites
+"""
+
+import pandas as pd
+from pathlib import Path
+from datetime import datetime
+import numpy as np
+
+# ========== CONFIGURATION ==========
+INPUT_DIR = Path("ohlcv_parquet")
+LOOKBACK = 10  # How many bars to use for slope calculation
+TIMEFRAMES = ['1h', '4h', '1d']
+timestamp = datetime.now().strftime("%Y%m%d_%H%M")
+OUTPUT_FILE = f"slope_summary_{timestamp}.csv"
+# ===================================
+
+def calculate_slope(y_values):
+    x = np.arange(len(y_values))
+    slope, _ = np.polyfit(x, y_values, 1)
+    return slope
+
+def analyze_slope_for_tf(tf):
+    path = INPUT_DIR / f"ohlcv_{tf}.parquet"
+    if not path.exists():
+        print(f"⚠️ Parquet file not found for {tf}: {path}")
+        return []
+
+    df = pd.read_parquet(path)
+    df = df.reset_index()  # Ensure symbol and timestamp are columns
+
+    results = []
+    for symbol in df['symbol'].unique():
+        df_symbol = df[df['symbol'] == symbol].sort_values('timestamp')
+        if len(df_symbol) < LOOKBACK:
+            continue
+
+        close_prices = df_symbol['close'].values[-LOOKBACK:]
+        slope = calculate_slope(close_prices)
+        slope_pct = round((slope / close_prices[0]) * 100, 3)
+        direction = 'Up' if slope_pct > 0 else ('Down' if slope_pct < 0 else 'Flat')
+
+        results.append({
+            'symbol': symbol,
+            'timeframe': tf,
+            'slope_%': slope_pct,
+            'direction': direction
+        })
+
+    return results
+
+def main():
+    all_results = []
+    for tf in TIMEFRAMES:
+        results = analyze_slope_for_tf(tf)
+        all_results.extend(results)
+
+    df_out = pd.DataFrame(all_results)
+    df_out.to_csv(OUTPUT_FILE, index=False)
+    print(f"✅ Saved slope summary to {OUTPUT_FILE} with {len(df_out)} rows.")
+
+if __name__ == "__main__":
+    main()

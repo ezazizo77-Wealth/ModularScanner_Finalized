@@ -1,0 +1,2 @@
+run_ts_utc,fetch_code,health_code,rows_1h,rows_4h,rows_1d,last_1h_utc,last_4h_utc,last_1d_utc,dupes_total
+2025-08-10 13:07:11,0,0,426865,394764,311382,2025-08-10 13:00:00,2025-08-10 12:00:00,2025-08-10 00:00:00,0

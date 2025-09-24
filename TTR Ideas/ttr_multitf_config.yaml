@@ -1,0 +1,27 @@
+
+# TTR Multi-Timeframe Agreement Configuration
+timeframes:
+  - name: "1h"
+    weight: 0.25
+    ma_levels: [1, 2, 3, 4, 5]
+
+  - name: "4h"
+    weight: 0.35
+    ma_levels: [1, 2, 3, 4, 5]
+
+  - name: "1d"
+    weight: 0.40
+    ma_levels: [1, 2, 3, 4, 5]
+
+trend_rules:
+  - name: "All MAs aligned"
+    condition: "ma1 < ma2 < ma3 < ma4 < ma5"
+    score: 1.0
+
+  - name: "Partial alignment"
+    condition: "ma1 < ma2 and ma3 < ma4"
+    score: 0.5
+
+  - name: "No alignment"
+    condition: "not aligned"
+    score: 0.0

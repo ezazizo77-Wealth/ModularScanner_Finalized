@@ -1,0 +1,14 @@
+# ===================== Trained Trend Radar (TTR) v1.1 ======================
+#                  CONFIG FILE WITH MULTI-TIMEFRAME TREND AGREEMENT (MTFA)
+# =========================================================================
+
+emas: [5, 13, 21, 50, 200]   # EMAs used in the trend stack evaluation
+
+# MTFA weights for each timeframe
+mtfa_weights:
+  1d: 0.4
+  4h: 0.35
+  1h: 0.25
+
+# Threshold to consider a symbol as having strong trend agreement
+mtfa_threshold: 0.7

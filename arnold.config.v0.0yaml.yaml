@@ -1,0 +1,49 @@
+scanner:
+  timeframes: ['1h', '4h', '1d']
+  data_limit: 200
+  lookback: 10  # 👈 This is the missing line causing the crash
+  slope_threshold: 0.005
+  delay_between_requests: 0.2
+  log_conditions: true  # Toggle to print detailed coil match failures
+
+indicators:
+  sma:
+    enabled: true
+    period: 150
+    loopbacks:
+      - name: macro_72h
+        bars: 72
+        use: true
+        notes: 3 days macro trend on 1H TF
+
+      - name: short_24h
+        bars: 24
+        use: false
+        notes: Short-term structure detection
+
+      - name: micro_10h
+        bars: 10
+        use: false
+        notes: Volatile signal scan
+
+  ema:
+    - name: ema5
+      period: 5
+    - name: ema13
+      period: 13
+    - name: ema50
+      period: 50
+    - name: ema20
+      period: 20
+
+coil_conditions:
+  enabled: false
+  ema_order_check: true
+  ema_vs_sma_check: true
+  coil_gap_check:
+    enabled: true
+    threshold: 0.015
+  slope_check:
+    enabled: true
+    lookback: 10
+    threshold: 0.005

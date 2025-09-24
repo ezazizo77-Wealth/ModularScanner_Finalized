@@ -1,0 +1,70 @@
+# coil_spring_p004_optimized.yaml
+# Created: 2025-09-21
+# Purpose: P004 coil_spring pattern detection optimized based on reverse engineering
+#
+# Based on analysis of 5 P004 examples:
+# - GNSUSDT, DATAUSDT, ASRUSDT, GPSUSDT, CTKUSDT
+# - Historical data from June 2025 to September 2025
+# - Pattern characteristics: tight coils, short duration, followed by springs
+
+control:
+  enabled_stages: ["coil_1h", "match_4h", "confirm_1d"]
+  benchmark: false
+
+universe:
+  regex: ".*"
+  exclude_symbols:
+    # Stablecoins
+    - EURUSDT
+    - EURIUSDT
+    - FDUSDUSDT
+    - USD1USDT
+    - USDCUSDT
+    - BUSDUSDT
+    - TUSDUSDT
+    - DAIUSDT
+    - USDPUSDT
+    - PAXGUSDT
+    - BFUSDUSDT
+    - USDEUSDT
+    # Barcode coins (low volatility, flat price action)
+    - BTTCUSDT
+    - XUSDUSDT
+
+features:
+  ema_fast: 21
+  ema_mid_fast: 40
+  sma_mid_slow: 50
+  sma_slow: 150
+  atr_window: 14
+  slope_window: 100
+
+# Stage 1: 1h Coil Detection - P004 OPTIMIZED
+coil_1h:
+  price_col: close
+  
+  # P004 Optimized Parameters (based on reverse engineering)
+  max_fast3_width_pct: 1.8      # P004 max was 1.59%, allowing small buffer
+  min_bars_in_coil: 1           # P004 patterns are short-lived (1-3 days)
+  max_tr_range_atr: 1.3         # P004 max was 1.017, allowing volatility
+  min_ma21_slope_pct: -10.0     # P004 patterns can have bearish EMA21 slopes
+  require_sma150_slope_bps_min: -3.0  # More permissive for P004 patterns
+
+# Stage 2: 4h Matching - P004 OPTIMIZED
+match_4h:
+  mode: "either"
+  max_fast3_width_pct: 5.0     # More permissive for 4h timeframe
+  max_tr_range_atr: 2.0        # More permissive for 4h timeframe
+  min_bars_in_coil: 1           # Very permissive
+  min_ma21_slope_pct: -15.0     # Very permissive for 4h
+  min_ma50_slope_pct: -15.0     # Very permissive for 4h
+
+# Stage 3: Daily Confirmation - P004 OPTIMIZED
+confirm_1d:
+  min_sma150_slope_pct: -3.0    # More permissive for P004 patterns
+  tolerance_pct: 0.0
+
+outputs:
+  save_watchlists: true
+  out_dir: "out"
+  rules: ["1h:coil_pass", "4h:match_pass", "1d:confirm_pass"]

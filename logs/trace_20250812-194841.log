@@ -1,0 +1,81 @@
++ set -e
++++ dirname ./run_cycle.sh
+++ cd .
+++ pwd
++ DIR=/Users/aziz/Projects/ModularScanner_Finalized
++ cd /Users/aziz/Projects/ModularScanner_Finalized
++ LOG_DIR=/Users/aziz/Projects/ModularScanner_Finalized/logs
++ mkdir -p /Users/aziz/Projects/ModularScanner_Finalized/logs
++ PY=/Users/aziz/Projects/ModularScanner_Finalized/.venv/bin/python
+++ date -u +%Y%m%d-%H%M%S
++ TS=20250812-164841
++ LOG_FILE=/Users/aziz/Projects/ModularScanner_Finalized/logs/run_cycle_20250812-164841.log
++ HB=/Users/aziz/Projects/ModularScanner_Finalized/logs/heartbeat.log
++ touch /Users/aziz/Projects/ModularScanner_Finalized/logs/heartbeat.log
+++ date -u '+%Y-%m-%d %H:%M:%S UTC'
++ NOW_UTC='2025-08-12 16:48:41 UTC'
++ echo '[CRON START] 2025-08-12 16:48:41 UTC (ts=20250812-164841)'
++ tee -a /Users/aziz/Projects/ModularScanner_Finalized/logs/run_cycle_20250812-164841.log
+[CRON START] 2025-08-12 16:48:41 UTC (ts=20250812-164841)
++ echo '2025-08-12 16:48:41 UTC start ts=20250812-164841'
++ echo '=== Run started at 20250812-164841 ==='
++ tee -a /Users/aziz/Projects/ModularScanner_Finalized/logs/run_cycle_20250812-164841.log
+=== Run started at 20250812-164841 ===
++ echo '>>> Running fetch at 20250812-164841...'
++ tee -a /Users/aziz/Projects/ModularScanner_Finalized/logs/run_cycle_20250812-164841.log
+>>> Running fetch at 20250812-164841...
++ /Users/aziz/Projects/ModularScanner_Finalized/.venv/bin/python /Users/aziz/Projects/ModularScanner_Finalized/fetch_ohlcv_to_parquet_v3.0.0.py --top-n 0
++ tee -a /Users/aziz/Projects/ModularScanner_Finalized/logs/run_cycle_20250812-164841.log
+/Users/aziz/Projects/ModularScanner_Finalized/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+📦 Fetch v3.0.0 started at 16:48:42 UTC
+🔧 Full refresh: False, Workers: 5, Top N: 0
+📁 Output dir: ohlcv_parquet, Timeframes: ['1h', '4h', '1d']
+📊 Fetched 409 symbols
+
+✅ 1h: 447418 rows
+
+✅ 4h: 400003 rows
+
+✅ 1d: 312188 rows
+🎯 Done in 79.4s | Total rows: 1159609
++ tee -a /Users/aziz/Projects/ModularScanner_Finalized/logs/run_cycle_20250812-164841.log
++ echo '>>> Running health check at 20250812-164841...'
+>>> Running health check at 20250812-164841...
++ /Users/aziz/Projects/ModularScanner_Finalized/.venv/bin/python /Users/aziz/Projects/ModularScanner_Finalized/post_fetch_health_check.py
++ tee -a /Users/aziz/Projects/ModularScanner_Finalized/logs/run_cycle_20250812-164841.log
+
+====== Post-Fetch Health Report ======
+UTC now: 2025-08-12 16:50:02 UTC
+Parquet files: 3 | Size: 22.7 MB
+
+-- Snapshot per timeframe --
+timeframe   rows  distinct_symbols          max_ts_utc     max_ts_ms
+       1h 447418               409 2025-08-12 16:00:00 1755014400000
+       4h 400003               409 2025-08-12 16:00:00 1755014400000
+       1d 312188               409 2025-08-12 00:00:00 1754956800000
+
+-- Dupes summary (expect 0) --
+timeframe  extra_rows_due_to_dupes
+       1h                      0.0
+       4h                      0.0
+       1d                      0.0
+
+-- Automated Checks --
+✅ Freshness: 1h up to 2025-08-12 16:00:00 UTC (0:50:02.607107 ago) within 2h.
+✅ Freshness: 4h up to 2025-08-12 16:00:00 UTC (0:50:02.607477 ago) within 8h.
+✅ Freshness: 1d up to 2025-08-12 00:00:00 UTC (16:50:02.607663 ago) within 48h.
+✅ Dupes: 0 extra rows across all timeframes.
+
+Saved: fetch_snapshots/snapshot_20250812-165002.csv
+Saved: fetch_snapshots/dupes_20250812-165002.csv
+++ date -u +%Y%m%d-%H%M%S
++ END_TS=20250812-165002
+++ date -u '+%Y-%m-%d %H:%M:%S UTC'
++ END_UTC='2025-08-12 16:50:02 UTC'
++ echo '=== Run completed at 20250812-165002 ==='
++ tee -a /Users/aziz/Projects/ModularScanner_Finalized/logs/run_cycle_20250812-164841.log
+=== Run completed at 20250812-165002 ===
++ echo '2025-08-12 16:50:02 UTC done ts=20250812-164841'
+++ basename /Users/aziz/Projects/ModularScanner_Finalized/logs/run_cycle_20250812-164841.log
++ ln -sf run_cycle_20250812-164841.log /Users/aziz/Projects/ModularScanner_Finalized/logs/latest.log

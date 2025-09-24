@@ -1,0 +1,41 @@
+[CRON START] 2025-08-21 06:05:01 UTC (ts=20250821-060501)
+=== Run started at 20250821-060501 ===
+>>> Running fetch at 20250821-060501...
+📦 Fetch v3.0.0 started at 06:05:07 UTC
+🔧 Full refresh: False, Workers: 5, Top N: 0
+📁 Output dir: ohlcv_parquet, Timeframes: ['1h', '4h', '1d']
+📊 Fetched 517 symbols
+
+✅ 1h: 636685 rows
+
+✅ 4h: 526620 rows
+
+✅ 1d: 408890 rows
+🎯 Done in 1052.1s | Total rows: 1572195
+>>> Running health check at 20250821-060501...
+
+====== Post-Fetch Health Report ======
+UTC now: 2025-08-21 06:22:42 UTC
+Parquet files: 3 | Size: 30.6 MB
+
+-- Snapshot per timeframe --
+timeframe   rows  distinct_symbols          max_ts_utc     max_ts_ms
+       1h 636685               517 2025-08-21 06:00:00 1755756000000
+       4h 526620               517 2025-08-21 04:00:00 1755748800000
+       1d 408890               517 2025-08-21 00:00:00 1755734400000
+
+-- Dupes summary (expect 0) --
+timeframe  extra_rows_due_to_dupes
+       1h                      0.0
+       4h                      0.0
+       1d                      0.0
+
+-- Automated Checks --
+✅ Freshness: 1h up to 2025-08-21 06:00:00 UTC (0:22:42.292879 ago) within 2h.
+✅ Freshness: 4h up to 2025-08-21 04:00:00 UTC (2:22:42.293703 ago) within 8h.
+✅ Freshness: 1d up to 2025-08-21 00:00:00 UTC (6:22:42.294279 ago) within 48h.
+✅ Dupes: 0 extra rows across all timeframes.
+
+Saved: fetch_snapshots/snapshot_20250821-062242.csv
+Saved: fetch_snapshots/dupes_20250821-062242.csv
+=== Run completed at 20250821-062242 ===

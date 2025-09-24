@@ -1,0 +1,62 @@
+Trend Radar
+
+The Trend Radar is an innovative, heatmap-like indicator that will do the trend analysis for you.
+
+How it Works
+Trend Radar displays current price trend across five different time periods – from very short to very long – in the rows of a heatmap. The rows are ordered top-to-bottom, from short term to long term trend.
+It works by calculating five Exponential Moving Averages (EMAs) of different lengths, from short-term to long-term, and displaying them in a “heatmap” like display. When the current price is above a period’s EMA, a green cell is plotted; when it is below, a red cell is plotted.
+
+This allows traders to easily monitor the trend across multiple periods, from short term to medium term and long term. Additionally, Trend Radar has customizable lookback periods so traders can tailor their analysis to their particular goals and strategies.
+Understanding the Heatmap
+Each row depicts the trend direction in terms of up or down trends.
+Rows are arranged top-to-bottom, from shortest to longest term trend.
+
+Green or red dots on the bottom row indicate extreme trend strength.
+
+
+
+Trend patterns can be identified by comparing and contrasting the latest trend cells across the different time periods.
+
+
+
+
+Trading Trend Patterns
+
+By using the heatmap to quickly compare trend across the three time periods, you can spot some useful trend patterns that will help you spot entry and exit opportunities.
+
+
+
+
+
+
+
+
+Extended Run
+
+The extended run pattern, which occurs when all three trend periods (short, medium and long-term) are moving in the same direction, is very easy to spot with Trend Radar.
+When the radar is green across all periods, we have an extended bullish run. When it is red across all periods, there is an extended bearish run.
+
+
+It’s generally considered imprudent to enter during this pattern, because you will be entering ‘late to the trend’ and chasing the price action. Instead, this pattern is usually a good sign that you should wait for a healthy pullback to enter in the direction of the trend, or a fading power pattern for an opportunity to trade against it.
+
+
+
+
+Healthy Pullback
+
+Healthy Pullback
+The healthy pullback pattern occurs when the medium and long-term trends are in alignment, but the short-term trend temporarily moves in the opposite direction.
+It is visualized on the Trend Radar as a small ‘dip’ against the prevailing direction which only extends two or three rows into the radar. This coloring in the radar is a representation of a minor, short term consolidation in the medium and long term trend.
+Generally, price will recover from these minor consolidations, and continue to move in the original trend direction – making these healthy pullbacks excellent times to take advantage of discounted prices.
+Once a break in the trend alignment extends into the medium and long term trend (the third and fourth rows from the top), however, the effects are usually more fatal for the long term trend. Such drastic dips are considered a sign of fading power in the long term trend.
+
+
+Fading Power
+
+If your position is in the direction of the long term trend, then the fading power pattern is kind of like a healthy pullback gone wrong.
+It occurs when the short and medium term trend gradually begin to contradict the long term, without rebounding back to their original direction like in the case of a healthy pullback.
+This pattern is characterized in Trend Radar as a gradual changing of color in the short and medium term trend periods against the direction of the long term.
+
+Settings and Parameters
+Trend Radar comes with settings to change the lookback periods of its moving averages, so that you can adjust its sensitivity to short, medium or long-term trends. By changing the lookback period, you can change how much data is taken into account when determining the different periods’ trend.
+By adjusting the lookback periods, you can easily customize Trend Radar to fit your needs and stay up-to-date with market trends regardless of what timeframe or chart you are viewing.

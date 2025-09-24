@@ -1,0 +1,74 @@
+# TTR (Trained Trend Radar) Configuration
+# Version: 1.0.0
+# Author: A-Team (Aziz + Sonny)
+
+# ========== TIMEFRAME SETTINGS ==========
+timeframes: ['1h', '4h', '1d']  # Multi-timeframe analysis: 1h for entry, 4h/1d for trend
+
+# ========== EMA STACK SETTINGS ==========
+emas: [5, 13, 21, 50, 200]  # EMA periods for stack analysis
+
+# ========== RSI SETTINGS ==========
+rsi_period: 14              # RSI calculation period
+rsi_oversold: 30            # Buy signal threshold (oversold)
+rsi_overbought: 70          # Sell signal threshold (overbought)
+
+# ========== PULLBACK DETECTION ==========
+pullback_lookback: 5        # Bars to check for recent pullback
+pullback_threshold: 0.02    # Minimum pullback percentage (2%)
+
+# ========== TREND STRENGTH ==========
+min_trend_strength: 0.8     # Minimum trend strength score (0-1)
+trend_strength_weight: 0.6  # Weight for trend strength in final score
+
+# ========== MTFA (Multi-Timeframe Trend Agreement) ==========
+mtfa:
+  enabled: true
+  ema_periods: [5, 13, 21, 50, 200]  # EMA periods for MTFA analysis
+  weights:
+    "1h": 0.25    # Short-term weight (25%)
+    "4h": 0.35    # Medium-term weight (35%)
+    "1d": 0.40    # Long-term weight (40%)
+  thresholds:
+    weak: 0.4     # Weak trend agreement
+    moderate: 0.6 # Moderate trend agreement
+    strong: 0.8   # Strong trend agreement
+  min_threshold: 0.4  # Minimum MTFA score to consider signal
+  fallback_mismatch_multiplier: 0.1  # Suppress mismatched trend directions
+
+# ========== SIGNAL GENERATION ==========
+# Buy Signal: Bullish stack + RSI < oversold + Recent pullback
+# Sell Signal: Bearish stack + RSI > overbought + Recent pullback
+enable_signals: true        # Enable buy/sell signal generation
+min_signal_strength: 0.7    # Minimum signal strength for alerts
+
+# ========== OUTPUT SETTINGS ==========
+output_dir: "out"           # Output directory
+include_breakdown: true     # Include detailed breakdown in output
+timestamp_format: "%Y%m%d_%H%M"  # Timestamp format for files
+
+# ========== FILTERING ==========
+min_price: 0.001            # Minimum price filter
+max_price: 1000000         # Maximum price filter
+exclude_symbols:
+  # Stablecoins
+  - EURUSDT
+  - EURIUSDT
+  - FDUSDUSDT
+  - USD1USDT
+  - USDCUSDT
+  - BUSDUSDT
+  - TUSDUSDT
+  - DAIUSDT
+  - USDPUSDT
+  - PAXGUSDT
+  - BFUSDUSDT
+  - USDEUSDT
+  # Barcode coins (low volatility, flat price action)
+  - BTTCUSDT
+  - XUSDUSDT
+include_symbols: []        # Specific symbols to include (empty = all)
+
+# ========== DEBUGGING ==========
+debug_mode: false           # Enable debug output
+verbose_logging: false      # Enable verbose logging

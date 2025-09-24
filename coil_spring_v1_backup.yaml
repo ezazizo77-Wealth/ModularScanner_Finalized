@@ -1,0 +1,29 @@
+# coil_spring.yaml  — ultra-basic, coil-only
+exclude_symbols:
+  - EUR/USDT
+  - EURI/USDT
+  - FDUSD/USDT
+  - PUNDIX/USDT
+  - USD1/USDT
+
+coil_1h:
+  price_col: close
+
+  # TBO ribbon definition
+  ema_fast: 21
+  ema_mid_fast: 40
+  sma_mid_slow: 50
+  sma_slow: 150
+
+  # 3 criteria (3 knobs):
+  max_ribbon_width_pct: 3.0   # ← loosen to catch more (try 8–10%)
+  min_bars_in_coil: 8    # short persistence
+  max_tr_range_atr: 1.2    # light wick/noise guard
+
+ 
+  # keep these present for feature calc, but they're not used by the filter
+  bb_window: 20
+  bb_k: 2.0
+  atr_window: 14
+
+# NOTE: no daily_confirm_1d block (intentionally omitted)

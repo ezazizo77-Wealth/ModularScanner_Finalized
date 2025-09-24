@@ -1,0 +1,9 @@
+2025-08-08 07:16:14,891 - INFO - Job started at 2025-08-08 04:16:14 UTC
+2025-08-08 07:16:17,656 - INFO - Symbols: 406 | Timeframes: ['1h', '4h', '1d']
+2025-08-08 07:19:29,191 - INFO - Saved 80800 rows to ohlcv_1h.parquet
+2025-08-08 07:19:29,192 - INFO - Skipped for 1h | Errors: 0 | Short: 2
+2025-08-08 07:22:41,769 - INFO - Saved 79800 rows to ohlcv_4h.parquet
+2025-08-08 07:22:41,771 - INFO - Skipped for 4h | Errors: 0 | Short: 7
+2025-08-08 07:25:43,674 - INFO - Saved 70800 rows to ohlcv_1d.parquet
+2025-08-08 07:25:43,677 - INFO - Skipped for 1d | Errors: 0 | Short: 52
+2025-08-08 07:25:43,677 - INFO - Job ended. Duration: 569s

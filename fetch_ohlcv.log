@@ -1,0 +1,1489 @@
+2025-08-08 08:14:50,550 - INFO - Fetched 300 symbols (top 300)
+2025-08-08 08:14:50,649 - WARNING - Error reading existing file ohlcv_parquet/ohlcv_1h.parquet: 'Column not found: timestamp'
+2025-08-08 08:15:31,389 - INFO - Saved 295297 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-08 08:15:31,404 - WARNING - Error reading existing file ohlcv_parquet/ohlcv_4h.parquet: 'Column not found: timestamp'
+2025-08-08 08:16:10,462 - INFO - Saved 280409 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-08 08:16:10,487 - WARNING - Error reading existing file ohlcv_parquet/ohlcv_1d.parquet: 'Column not found: timestamp'
+2025-08-08 08:16:40,033 - INFO - Saved 208761 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-08 08:16:40,039 - INFO - Job completed in 115.3s with 784467 total rows
+2025-08-08 08:19:07,537 - INFO - Fetched 409 symbols (top all)
+2025-08-08 08:19:39,912 - INFO - Saved 404297 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-08 08:20:16,807 - INFO - Saved 389122 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-08 08:20:48,056 - INFO - Saved 310576 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-08 08:20:48,064 - INFO - Job completed in 106.6s with 1103995 total rows
+2025-08-10 14:34:48,388 - INFO - Fetched 409 symbols (top all)
+2025-08-10 14:35:13,271 - INFO - Saved 426059 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-10 14:35:37,829 - INFO - Saved 394361 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-10 14:36:03,952 - INFO - Saved 311382 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-10 14:36:03,957 - INFO - Job completed in 81.7s with 1131802 total rows
+2025-08-10 14:41:21,422 - INFO - Fetched 409 symbols (top all)
+2025-08-10 14:41:45,491 - INFO - Saved 426059 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-10 14:42:08,980 - INFO - Saved 394361 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-10 14:42:33,591 - INFO - Saved 311382 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-10 14:42:33,599 - INFO - Job completed in 77.8s with 1131802 total rows
+2025-08-10 15:16:54,773 - INFO - Fetched 409 symbols (top all)
+2025-08-10 15:17:18,748 - INFO - Saved 426462 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-10 15:17:43,056 - INFO - Saved 394764 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-10 15:18:08,435 - INFO - Saved 311382 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-10 15:18:08,441 - INFO - Job completed in 79.8s with 1132608 total rows
+2025-08-10 15:32:24,674 - INFO - Fetched 409 symbols (top all)
+2025-08-10 15:32:49,013 - INFO - Saved 426462 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-10 15:33:13,341 - INFO - Saved 394764 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-10 15:33:37,491 - INFO - Saved 311382 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-10 15:33:37,497 - INFO - Job completed in 79.0s with 1132608 total rows
+2025-08-10 15:35:58,196 - INFO - Fetched 409 symbols (top all)
+2025-08-10 15:36:22,241 - INFO - Saved 426462 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-10 15:36:46,363 - INFO - Saved 394764 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-10 15:37:10,008 - INFO - Saved 311382 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-10 15:37:10,014 - INFO - Job completed in 77.5s with 1132608 total rows
+2025-08-10 15:49:34,251 - INFO - Fetched 409 symbols (top all)
+2025-08-10 15:49:58,165 - INFO - Saved 426462 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-10 15:50:22,888 - INFO - Saved 394764 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-10 15:50:46,907 - INFO - Saved 311382 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-10 15:50:46,913 - INFO - Job completed in 78.5s with 1132608 total rows
+2025-08-10 15:55:56,442 - INFO - Fetched 409 symbols (top all)
+2025-08-10 15:56:20,915 - INFO - Saved 426462 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-10 15:56:46,006 - INFO - Saved 394764 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-10 15:57:10,188 - INFO - Saved 311382 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-10 15:57:10,193 - INFO - Job completed in 79.5s with 1132608 total rows
+2025-08-10 16:07:19,113 - INFO - Fetched 409 symbols (top all)
+2025-08-10 16:07:43,356 - INFO - Saved 426865 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-10 16:08:07,665 - INFO - Saved 394764 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-10 16:08:31,703 - INFO - Saved 311382 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-10 16:08:31,708 - INFO - Job completed in 78.8s with 1133011 total rows
+2025-08-12 00:32:00,002 - INFO - Fetched 409 symbols (top all)
+2025-08-12 00:32:24,432 - INFO - Saved 439761 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 00:32:52,466 - INFO - Saved 397988 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 00:33:18,183 - INFO - Saved 311785 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 00:33:18,187 - INFO - Job completed in 84.5s with 1149534 total rows
+2025-08-12 00:44:01,021 - INFO - Fetched 300 symbols (top 300)
+2025-08-12 00:44:18,771 - INFO - Saved 439761 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 00:44:36,452 - INFO - Saved 397988 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 00:44:53,823 - INFO - Saved 311785 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 00:44:53,826 - INFO - Job completed in 59.2s with 1149534 total rows
+2025-08-12 13:12:52,356 - INFO - Fetched 409 symbols (top all)
+2025-08-12 13:13:18,716 - INFO - Saved 445000 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 13:13:42,741 - INFO - Saved 399197 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 13:14:06,771 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 13:14:06,782 - INFO - Job completed in 80.4s with 1156385 total rows
+2025-08-12 19:48:48,032 - INFO - Fetched 409 symbols (top all)
+2025-08-12 19:49:12,248 - INFO - Saved 447418 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 19:49:37,014 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 19:50:01,849 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 19:50:01,854 - INFO - Job completed in 79.4s with 1159609 total rows
+2025-08-12 20:00:11,145 - INFO - Fetched 409 symbols (top all)
+2025-08-12 20:00:45,647 - INFO - Saved 447821 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 20:01:20,039 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 20:01:53,791 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 20:01:53,802 - INFO - Job completed in 109.3s with 1160012 total rows
+2025-08-12 20:48:09,644 - INFO - Fetched 409 symbols (top all)
+2025-08-12 20:48:37,908 - INFO - Saved 447821 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 20:49:06,010 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 20:49:34,433 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 20:49:34,443 - INFO - Job completed in 91.0s with 1160012 total rows
+2025-08-12 20:50:10,732 - INFO - Fetched 409 symbols (top all)
+2025-08-12 20:50:39,263 - INFO - Saved 447821 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 20:51:08,082 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 20:51:36,580 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 20:51:36,604 - INFO - Job completed in 92.7s with 1160012 total rows
+2025-08-12 20:52:10,062 - INFO - Fetched 409 symbols (top all)
+2025-08-12 20:52:38,809 - INFO - Saved 447821 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 20:53:07,201 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 20:53:36,808 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 20:53:36,820 - INFO - Job completed in 93.5s with 1160012 total rows
+2025-08-12 20:54:08,211 - INFO - Fetched 409 symbols (top all)
+2025-08-12 20:54:37,133 - INFO - Saved 447821 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 20:55:06,083 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 20:55:34,221 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 20:55:34,233 - INFO - Job completed in 91.4s with 1160012 total rows
+2025-08-12 20:56:09,648 - INFO - Fetched 409 symbols (top all)
+2025-08-12 20:56:38,091 - INFO - Saved 447821 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 20:57:06,499 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 20:57:34,700 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 20:57:34,711 - INFO - Job completed in 91.5s with 1160012 total rows
+2025-08-12 20:58:09,127 - INFO - Fetched 409 symbols (top all)
+2025-08-12 20:58:37,739 - INFO - Saved 447821 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 20:59:05,559 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 20:59:34,354 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 20:59:34,368 - INFO - Job completed in 90.8s with 1160012 total rows
+2025-08-12 21:00:10,842 - INFO - Fetched 409 symbols (top all)
+2025-08-12 21:00:39,046 - INFO - Saved 448224 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 21:01:06,882 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 21:01:34,996 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 21:01:35,010 - INFO - Job completed in 90.9s with 1160415 total rows
+2025-08-12 21:02:09,503 - INFO - Fetched 409 symbols (top all)
+2025-08-12 21:02:37,883 - INFO - Saved 448224 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 21:03:05,749 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 21:03:34,391 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 21:03:34,401 - INFO - Job completed in 91.6s with 1160415 total rows
+2025-08-12 21:04:08,205 - INFO - Fetched 409 symbols (top all)
+2025-08-12 21:04:37,809 - INFO - Saved 448224 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 21:05:06,338 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 21:05:08,509 - INFO - Fetched 409 symbols (top all)
+2025-08-12 21:05:35,021 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 21:05:35,033 - INFO - Job completed in 92.1s with 1160415 total rows
+2025-08-12 21:05:37,035 - INFO - Saved 448224 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 21:06:05,315 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 21:06:33,556 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 21:06:33,566 - INFO - Job completed in 90.1s with 1160415 total rows
+2025-08-12 22:05:10,518 - INFO - Fetched 409 symbols (top all)
+2025-08-12 22:05:38,540 - INFO - Saved 448627 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 22:06:06,430 - INFO - Saved 400003 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 22:06:35,510 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 22:06:35,523 - INFO - Job completed in 91.6s with 1160818 total rows
+2025-08-12 23:05:12,508 - INFO - Fetched 409 symbols (top all)
+2025-08-12 23:05:41,132 - INFO - Saved 449030 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-12 23:06:09,365 - INFO - Saved 400406 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-12 23:06:37,499 - INFO - Saved 312188 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-12 23:06:37,512 - INFO - Job completed in 92.6s with 1161624 total rows
+2025-08-13 12:05:13,054 - INFO - Fetched 409 symbols (top all)
+2025-08-13 12:38:32,154 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CHZUSDT&startTime=1755028800000. Waiting 1.57s
+2025-08-13 13:05:48,340 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LOKAUSDT&startTime=1753668000000. Waiting 1.88s
+2025-08-13 13:05:48,408 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=IOTXUSDT&startTime=1755028800000. Waiting 1.35s
+2025-08-13 13:05:48,536 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=PIXELUSDT&startTime=1755028800000. Waiting 1.36s
+2025-08-13 13:05:48,556 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=NXPCUSDT&startTime=1755028800000. Waiting 1.81s
+2025-08-13 13:05:59,419 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ANIMEUSDT&startTime=1755028800000. Waiting 1.67s
+2025-08-13 13:06:08,533 - INFO - Saved 454445 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-13 13:38:50,213 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ATMUSDT&startTime=1755028800000. Waiting 1.77s
+2025-08-13 13:38:50,264 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DEXEUSDT&startTime=1755028800000. Waiting 1.75s
+2025-08-13 14:06:49,376 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=FIOUSDT&startTime=1755028800000. Waiting 1.10s
+2025-08-13 14:06:49,494 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=STORJUSDT&startTime=1755028800000. Waiting 1.18s
+2025-08-13 14:06:49,510 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SYNUSDT&startTime=1755028800000. Waiting 1.95s
+2025-08-13 14:07:00,108 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=MEUSDT&startTime=1755028800000. Waiting 1.38s
+2025-08-13 14:07:00,267 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=RDNTUSDT&startTime=1755028800000. Waiting 1.49s
+2025-08-13 14:07:05,434 - INFO - Saved 401615 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-13 14:37:47,805 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=VOXELUSDT&startTime=1754956800000. Waiting 1.43s
+2025-08-13 14:40:31,843 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=WOOUSDT&startTime=1754956800000. Waiting 1.32s
+2025-08-13 14:40:31,846 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=OXTUSDT&startTime=1754956800000. Waiting 1.78s
+2025-08-13 14:40:31,847 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=HOTUSDT&startTime=1754956800000. Waiting 1.34s
+2025-08-13 14:40:32,054 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=NEXOUSDT&startTime=1754956800000. Waiting 1.69s
+2025-08-13 14:40:42,593 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=GUSDT&startTime=1754956800000. Waiting 1.69s
+2025-08-13 14:40:45,526 - INFO - Saved 312591 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-13 14:40:45,538 - INFO - Job completed in 9339.3s with 1168651 total rows
+2025-08-13 15:05:14,493 - INFO - Fetched 409 symbols (top all)
+2025-08-13 15:05:50,426 - INFO - Saved 455478 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-13 15:06:25,928 - INFO - Saved 402018 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-13 15:07:01,063 - INFO - Saved 312591 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-13 15:07:01,074 - INFO - Job completed in 113.9s with 1170087 total rows
+2025-08-14 03:05:28,867 - INFO - Fetched 410 symbols (top all)
+2025-08-14 03:06:05,707 - INFO - Saved 460325 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-14 03:06:40,302 - INFO - Saved 403231 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-14 03:07:14,228 - INFO - Saved 312996 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-14 03:07:14,251 - INFO - Job completed in 115.6s with 1176552 total rows
+2025-08-14 10:06:34,850 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-14 12:08:11,734 - INFO - Fetched 410 symbols (top all)
+2025-08-14 12:08:46,227 - INFO - Saved 463961 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-14 12:09:18,921 - INFO - Saved 404039 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-14 12:26:35,975 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=PYRUSDT&startTime=1755129600000. Waiting 1.42s
+2025-08-14 12:26:35,976 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=BATUSDT&startTime=1755129600000. Waiting 1.22s
+2025-08-14 12:26:37,459 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ACMUSDT&startTime=1755129600000. Waiting 1.32s
+2025-08-14 12:26:37,585 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=KNCUSDT&startTime=1755129600000. Waiting 1.80s
+2025-08-14 12:26:37,591 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=DASHUSDT&startTime=1755129600000. Waiting 1.56s
+2025-08-14 12:26:52,957 - INFO - Saved 312996 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-14 12:26:52,977 - INFO - Job completed in 1127.9s with 1180996 total rows
+2025-08-14 20:47:03,599 - INFO - Fetched 410 symbols (top all)
+2025-08-14 20:47:29,235 - INFO - Saved 467193 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-14 20:47:54,026 - INFO - Saved 404847 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-14 20:48:19,790 - INFO - Saved 312996 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-14 20:48:19,796 - INFO - Job completed in 83.5s with 1185036 total rows
+2025-08-14 21:05:15,024 - INFO - Fetched 410 symbols (top all)
+2025-08-14 21:05:48,748 - INFO - Saved 467597 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-14 21:06:18,197 - INFO - Saved 404847 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-14 21:06:47,718 - INFO - Saved 312996 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-14 21:06:47,728 - INFO - Job completed in 101.6s with 1185440 total rows
+2025-08-14 23:05:12,644 - INFO - Fetched 410 symbols (top all)
+2025-08-14 23:05:53,825 - INFO - Saved 468405 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-14 23:06:30,778 - INFO - Saved 405251 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-14 23:07:08,941 - INFO - Saved 312996 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-14 23:07:08,953 - INFO - Job completed in 124.0s with 1186652 total rows
+2025-08-15 00:05:13,227 - INFO - Fetched 410 symbols (top all)
+2025-08-15 00:05:50,249 - INFO - Saved 468809 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 00:06:25,769 - INFO - Saved 405251 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 00:07:01,659 - INFO - Saved 312996 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 00:07:01,675 - INFO - Job completed in 115.5s with 1187056 total rows
+2025-08-15 01:05:12,027 - INFO - Fetched 410 symbols (top all)
+2025-08-15 01:05:52,962 - INFO - Saved 469213 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 01:06:29,983 - INFO - Saved 405251 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 01:07:06,993 - INFO - Saved 312996 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 01:07:07,004 - INFO - Job completed in 122.9s with 1187460 total rows
+2025-08-15 02:05:09,912 - INFO - Fetched 410 symbols (top all)
+2025-08-15 02:05:38,631 - INFO - Saved 469617 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 02:06:06,847 - INFO - Saved 405251 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 02:06:35,837 - INFO - Saved 312996 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 02:06:35,849 - INFO - Job completed in 92.7s with 1187864 total rows
+2025-08-15 07:05:14,294 - INFO - Fetched 410 symbols (top all)
+2025-08-15 07:05:48,407 - INFO - Saved 471637 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 07:06:21,988 - INFO - Saved 406059 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 07:06:56,478 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 07:06:56,488 - INFO - Job completed in 108.8s with 1191096 total rows
+2025-08-15 11:05:11,209 - INFO - Fetched 410 symbols (top all)
+2025-08-15 11:22:16,103 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=PYRUSDT&startTime=1755230400000. Waiting 1.62s
+2025-08-15 11:22:16,107 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=GHSTUSDT&startTime=1755230400000. Waiting 1.79s
+2025-08-15 11:22:16,107 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=QUICKUSDT&startTime=1755230400000. Waiting 1.41s
+2025-08-15 11:22:17,680 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=VOXELUSDT&startTime=1755230400000. Waiting 1.00s
+2025-08-15 11:22:17,731 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ONTUSDT&startTime=1755230400000. Waiting 1.86s
+2025-08-15 11:22:24,991 - INFO - Saved 473253 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 11:22:58,389 - INFO - Saved 406463 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 11:23:31,581 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 11:23:31,593 - INFO - Job completed in 1105.9s with 1193116 total rows
+2025-08-15 13:05:09,619 - INFO - Fetched 410 symbols (top all)
+2025-08-15 13:23:18,878 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=QNTUSDT&startTime=1755244800000. Waiting 1.23s
+2025-08-15 13:23:20,323 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=MBLUSDT&startTime=1755244800000. Waiting 1.10s
+2025-08-15 13:23:20,490 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=DEGOUSDT&startTime=1755244800000. Waiting 1.44s
+2025-08-15 13:23:20,538 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SIGNUSDT&startTime=1755244800000. Waiting 1.62s
+2025-08-15 13:23:20,539 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ENJUSDT&startTime=1755244800000. Waiting 1.12s
+2025-08-15 13:23:42,568 - INFO - Saved 474061 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 13:24:16,541 - INFO - Saved 406463 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 13:24:50,587 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 13:24:50,598 - INFO - Job completed in 1187.3s with 1193924 total rows
+2025-08-15 14:05:09,947 - INFO - Fetched 410 symbols (top all)
+2025-08-15 14:05:43,453 - INFO - Saved 474465 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 14:06:16,898 - INFO - Saved 406463 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 14:06:49,154 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 14:06:49,165 - INFO - Job completed in 105.2s with 1194328 total rows
+2025-08-15 15:05:09,616 - INFO - Fetched 410 symbols (top all)
+2025-08-15 15:05:42,168 - INFO - Saved 474869 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 15:06:15,408 - INFO - Saved 406867 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 15:06:47,939 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 15:06:47,950 - INFO - Job completed in 105.2s with 1195136 total rows
+2025-08-15 16:05:10,289 - INFO - Fetched 410 symbols (top all)
+2025-08-15 16:05:42,886 - INFO - Saved 475273 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 16:06:14,858 - INFO - Saved 406867 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 16:06:48,254 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 16:06:48,269 - INFO - Job completed in 104.8s with 1195540 total rows
+2025-08-15 17:05:09,645 - INFO - Fetched 410 symbols (top all)
+2025-08-15 17:05:43,659 - INFO - Saved 475677 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 17:06:16,087 - INFO - Saved 406867 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 17:06:48,777 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 17:06:48,792 - INFO - Job completed in 105.8s with 1195944 total rows
+2025-08-15 18:05:11,233 - INFO - Fetched 410 symbols (top all)
+2025-08-15 18:22:22,501 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ORCAUSDT&startTime=1755266400000. Waiting 1.11s
+2025-08-15 18:22:23,981 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=JOEUSDT&startTime=1755266400000. Waiting 1.23s
+2025-08-15 18:22:24,169 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LQTYUSDT&startTime=1755266400000. Waiting 1.46s
+2025-08-15 18:22:24,169 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=VICUSDT&startTime=1755266400000. Waiting 1.97s
+2025-08-15 18:22:24,192 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=KMDUSDT&startTime=1751594400000. Waiting 1.64s
+2025-08-15 18:22:36,298 - INFO - Saved 476081 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 18:39:03,514 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ACTUSDT&startTime=1755259200000. Waiting 1.72s
+2025-08-15 18:39:03,517 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=LAZIOUSDT&startTime=1755259200000. Waiting 1.96s
+2025-08-15 18:39:03,517 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=COOKIEUSDT&startTime=1755259200000. Waiting 1.40s
+2025-08-15 18:39:05,000 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CETUSUSDT&startTime=1755259200000. Waiting 1.56s
+2025-08-15 18:39:05,102 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=IDUSDT&startTime=1755259200000. Waiting 1.46s
+2025-08-15 18:39:24,047 - INFO - Saved 406867 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 18:56:30,403 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=TUTUSDT&startTime=1755216000000. Waiting 1.04s
+2025-08-15 18:56:30,404 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SPELLUSDT&startTime=1755216000000. Waiting 1.77s
+2025-08-15 18:56:31,968 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=LUMIAUSDT&startTime=1755216000000. Waiting 1.09s
+2025-08-15 18:56:32,012 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=BTTCUSDT&startTime=1755216000000. Waiting 1.88s
+2025-08-15 18:56:32,012 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=HMSTRUSDT&startTime=1755216000000. Waiting 1.14s
+2025-08-15 18:56:44,471 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 18:56:44,483 - INFO - Job completed in 3100.2s with 1196348 total rows
+2025-08-15 19:05:21,241 - INFO - Fetched 410 symbols (top all)
+2025-08-15 19:05:57,186 - INFO - Saved 476485 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 19:06:30,293 - INFO - Saved 407271 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 19:23:13,223 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=OSMOUSDT&startTime=1755216000000. Waiting 1.60s
+2025-08-15 19:23:13,225 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=GUSDT&startTime=1755216000000. Waiting 1.67s
+2025-08-15 19:23:14,740 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=RIFUSDT&startTime=1755216000000. Waiting 1.21s
+2025-08-15 19:23:14,740 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=NTRNUSDT&startTime=1755216000000. Waiting 1.44s
+2025-08-15 19:23:14,791 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=AGLDUSDT&startTime=1755216000000. Waiting 1.77s
+2025-08-15 19:23:19,405 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 19:23:19,420 - INFO - Job completed in 1085.9s with 1197156 total rows
+2025-08-15 20:06:18,606 - INFO - Fetched 410 symbols (top all)
+2025-08-15 20:10:04,033 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LUMIAUSDT&startTime=1755273600000. Waiting 1.39s
+2025-08-15 20:10:04,034 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=DASHUSDT&startTime=1755273600000. Waiting 1.92s
+2025-08-15 20:10:04,034 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CTKUSDT&startTime=1755273600000. Waiting 1.93s
+2025-08-15 20:10:07,382 - INFO - Saved 476889 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 20:10:41,472 - INFO - Saved 407271 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 20:11:15,024 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 20:11:15,037 - INFO - Job completed in 303.1s with 1197560 total rows
+2025-08-15 22:08:54,260 - INFO - Fetched 410 symbols (top all)
+2025-08-15 22:09:27,602 - INFO - Saved 477697 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-15 22:10:01,029 - INFO - Saved 407271 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-15 22:26:04,124 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ATOMUSDT&startTime=1755216000000. Waiting 1.82s
+2025-08-15 22:26:04,125 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=BIOUSDT&startTime=1755216000000. Waiting 1.67s
+2025-08-15 22:26:05,776 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=CITYUSDT&startTime=1755216000000. Waiting 1.99s
+2025-08-15 22:26:05,794 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SANTOSUSDT&startTime=1755216000000. Waiting 1.31s
+2025-08-15 22:26:05,795 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SOLVUSDT&startTime=1755216000000. Waiting 1.29s
+2025-08-15 22:26:33,688 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-15 22:26:33,700 - INFO - Job completed in 1066.8s with 1198368 total rows
+2025-08-15 23:09:28,518 - INFO - Fetched 410 symbols (top all)
+2025-08-15 23:42:00,928 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CETUSUSDT&startTime=1755284400000. Waiting 1.94s
+2025-08-15 23:42:00,930 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FORMUSDT&startTime=1755284400000. Waiting 1.38s
+2025-08-15 23:42:01,025 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=EPICUSDT&startTime=1755284400000. Waiting 1.02s
+2025-08-16 00:09:58,854 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=AUCTIONUSDT&startTime=1755284400000. Waiting 1.80s
+2025-08-16 00:09:59,846 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=1INCHUSDT&startTime=1755284400000. Waiting 1.28s
+2025-08-16 00:10:00,242 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=DYMUSDT&startTime=1755284400000. Waiting 1.36s
+2025-08-16 00:10:00,348 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FIDAUSDT&startTime=1755284400000. Waiting 1.87s
+2025-08-16 00:10:13,211 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=HFTUSDT&startTime=1755284400000. Waiting 1.70s
+2025-08-16 00:10:18,612 - INFO - Saved 478279 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-16 00:42:11,205 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=GHSTUSDT&startTime=1755273600000. Waiting 1.82s
+2025-08-16 00:42:11,865 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CTKUSDT&startTime=1755273600000. Waiting 1.53s
+2025-08-16 01:11:02,391 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BICOUSDT&startTime=1755273600000. Waiting 1.08s
+2025-08-16 01:11:02,480 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=STORJUSDT&startTime=1755273600000. Waiting 1.53s
+2025-08-16 01:11:02,482 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PYRUSDT&startTime=1755273600000. Waiting 1.56s
+2025-08-16 01:11:13,965 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SLPUSDT&startTime=1755273600000. Waiting 1.42s
+2025-08-16 01:11:14,066 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PUNDIXUSDT&startTime=1755273600000. Waiting 1.68s
+2025-08-16 01:11:16,812 - INFO - Saved 407675 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-16 01:45:15,672 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=QKCUSDT&startTime=1755216000000. Waiting 1.01s
+2025-08-16 02:12:02,696 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=WOOUSDT&startTime=1755216000000. Waiting 1.47s
+2025-08-16 02:12:02,796 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=OGNUSDT&startTime=1755216000000. Waiting 1.43s
+2025-08-16 02:12:03,174 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=AGLDUSDT&startTime=1755216000000. Waiting 1.45s
+2025-08-16 02:12:03,190 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=AWEUSDT&startTime=1755216000000. Waiting 1.49s
+2025-08-16 02:12:13,741 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=PONDUSDT&startTime=1755216000000. Waiting 1.89s
+2025-08-16 02:12:16,633 - INFO - Saved 313400 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-16 02:12:16,645 - INFO - Job completed in 10975.8s with 1199354 total rows
+2025-08-16 02:12:29,138 - INFO - Fetched 410 symbols (top all)
+2025-08-16 02:35:32,285 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=EURIUSDT&startTime=1755288000000. Waiting 1.55s
+2025-08-16 02:35:32,287 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=1MBABYDOGEUSDT&startTime=1755288000000. Waiting 1.80s
+2025-08-16 02:35:33,774 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=NXPCUSDT&startTime=1755288000000. Waiting 1.16s
+2025-08-16 02:35:33,914 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BANANAUSDT&startTime=1755288000000. Waiting 1.16s
+2025-08-16 02:35:33,942 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=GASUSDT&startTime=1755288000000. Waiting 1.14s
+2025-08-16 02:35:51,612 - INFO - Saved 479313 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-16 03:07:00,576 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PYTHUSDT&startTime=1755288000000. Waiting 1.96s
+2025-08-16 03:07:00,577 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BARUSDT&startTime=1755288000000. Waiting 1.81s
+2025-08-16 03:13:08,482 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=COWUSDT&startTime=1755288000000. Waiting 1.18s
+2025-08-16 03:13:08,483 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=STRAXUSDT&startTime=1755288000000. Waiting 1.03s
+2025-08-16 03:13:08,573 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SNXUSDT&startTime=1755288000000. Waiting 1.94s
+2025-08-16 03:13:19,044 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=XTZUSDT&startTime=1755288000000. Waiting 1.32s
+2025-08-16 03:13:19,167 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CETUSUSDT&startTime=1755288000000. Waiting 1.09s
+2025-08-16 03:13:31,498 - INFO - Saved 407895 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-16 03:44:55,046 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=FIDAUSDT&startTime=1755216000000. Waiting 1.25s
+2025-08-16 03:44:55,301 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=QNTUSDT&startTime=1755216000000. Waiting 1.56s
+2025-08-16 03:44:55,302 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=TSTUSDT&startTime=1755216000000. Waiting 1.28s
+2025-08-16 04:17:56,497 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=1MBABYDOGEUSDT&startTime=1755216000000. Waiting 1.74s
+2025-08-16 04:18:00,010 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=AXSUSDT&startTime=1755216000000. Waiting 1.09s
+2025-08-16 04:18:00,057 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=GLMUSDT&startTime=1755216000000. Waiting 1.34s
+2025-08-16 04:51:10,478 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=BLURUSDT&startTime=1755216000000. Waiting 1.43s
+2025-08-16 04:51:14,013 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=GASUSDT&startTime=1755216000000. Waiting 1.10s
+2025-08-16 04:51:14,115 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=EURIUSDT&startTime=1755216000000. Waiting 1.06s
+2025-08-16 05:25:32,023 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=AXSUSDT&startTime=1755216000000. Waiting 2.66s
+2025-08-16 05:40:54,922 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SIGNUSDT&startTime=1755216000000. Waiting 1.74s
+2025-08-16 05:57:57,920 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=CKBUSDT&startTime=1755216000000. Waiting 1.05s
+2025-08-16 05:57:57,922 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=GASUSDT&startTime=1755216000000. Waiting 2.65s
+2025-08-16 06:15:52,813 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=PARTIUSDT&startTime=1755216000000. Waiting 1.75s
+2025-08-16 06:49:09,838 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=FIOUSDT&startTime=1755216000000. Waiting 1.26s
+2025-08-16 07:02:02,756 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ALICEUSDT&startTime=1755216000000. Waiting 1.38s
+2025-08-16 07:02:02,906 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=COSUSDT&startTime=1755216000000. Waiting 1.05s
+2025-08-16 07:02:08,157 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=PERPUSDT&startTime=1755216000000. Waiting 1.95s
+2025-08-16 07:02:13,063 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=EDUUSDT&startTime=1755216000000. Waiting 1.33s
+2025-08-16 07:02:17,250 - INFO - Saved 313804 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-16 07:02:17,261 - INFO - Job completed in 17395.8s with 1201012 total rows
+2025-08-16 07:08:39,110 - INFO - Fetched 410 symbols (top all)
+2025-08-16 07:42:39,199 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=UMAUSDT&startTime=1755298800000. Waiting 1.34s
+2025-08-16 08:16:04,221 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=JOEUSDT&startTime=1755298800000. Waiting 1.32s
+2025-08-16 08:16:07,667 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=TRUUSDT&startTime=1755298800000. Waiting 1.33s
+2025-08-16 08:16:07,667 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ZILUSDT&startTime=1755298800000. Waiting 1.47s
+2025-08-16 08:16:07,744 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=NEWTUSDT&startTime=1755298800000. Waiting 1.50s
+2025-08-16 08:16:07,790 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=MEUSDT&startTime=1755298800000. Waiting 1.12s
+2025-08-16 09:03:00,174 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CTKUSDT&startTime=1755298800000. Waiting 1.62s
+2025-08-16 09:03:08,784 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=VICUSDT&startTime=1755298800000. Waiting 1.37s
+2025-08-16 09:03:14,356 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=RIFUSDT&startTime=1755298800000. Waiting 1.28s
+2025-08-16 09:03:14,375 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SLPUSDT&startTime=1755298800000. Waiting 1.23s
+2025-08-16 09:03:14,375 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=XVSUSDT&startTime=1755298800000. Waiting 1.66s
+2025-08-16 09:03:17,184 - INFO - Saved 481512 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-16 09:35:37,977 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=XECUSDT&startTime=1755302400000. Waiting 1.76s
+2025-08-16 09:35:37,978 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=TFUELUSDT&startTime=1755302400000. Waiting 1.58s
+2025-08-16 09:35:37,978 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DGBUSDT&startTime=1755302400000. Waiting 1.40s
+2025-08-16 10:04:04,546 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=OGNUSDT&startTime=1755302400000. Waiting 1.12s
+2025-08-16 10:04:04,548 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CVCUSDT&startTime=1755302400000. Waiting 1.17s
+2025-08-16 10:04:15,063 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=RLCUSDT&startTime=1755302400000. Waiting 1.61s
+2025-08-16 10:04:15,176 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=MTLUSDT&startTime=1755302400000. Waiting 1.42s
+2025-08-16 10:04:15,207 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ATAUSDT&startTime=1755302400000. Waiting 1.92s
+2025-08-16 10:04:18,098 - INFO - Saved 408483 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-16 11:05:05,306 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=DGBUSDT&startTime=1755302400000. Waiting 1.13s
+2025-08-16 11:05:05,328 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=OGNUSDT&startTime=1755302400000. Waiting 1.37s
+2025-08-16 11:05:05,374 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=XECUSDT&startTime=1755302400000. Waiting 1.72s
+2025-08-16 11:05:05,522 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=QUICKUSDT&startTime=1755302400000. Waiting 1.75s
+2025-08-16 11:05:05,523 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=TFUELUSDT&startTime=1755302400000. Waiting 1.24s
+2025-08-16 11:05:10,817 - INFO - Saved 313804 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-16 11:05:10,831 - INFO - Job completed in 14198.5s with 1203799 total rows
+2025-08-16 18:12:45,637 - INFO - Fetched 410 symbols (top all)
+2025-08-16 18:47:28,936 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LAUSDT&startTime=1755316800000. Waiting 1.99s
+2025-08-16 18:47:29,094 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=DOTUSDT&startTime=1755316800000. Waiting 1.20s
+2025-08-16 19:13:06,668 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=WLDUSDT&startTime=1755316800000. Waiting 1.08s
+2025-08-16 19:13:06,669 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CRVUSDT&startTime=1755316800000. Waiting 1.07s
+2025-08-16 19:13:06,674 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=APTUSDT&startTime=1755316800000. Waiting 1.59s
+2025-08-16 19:13:17,211 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=MAGICUSDT&startTime=1755316800000. Waiting 1.46s
+2025-08-16 19:13:17,662 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=EPICUSDT&startTime=1755316800000. Waiting 1.34s
+2025-08-16 19:13:23,021 - INFO - Fetched 410 symbols (top all)
+2025-08-16 19:13:41,569 - INFO - Saved 486131 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-16 19:34:52,997 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SAHARAUSDT&startTime=1755316800000. Waiting 1.13s
+2025-08-16 19:34:52,997 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=PERPUSDT&startTime=1755320400000. Waiting 1.07s
+2025-08-16 19:34:52,998 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BIOUSDT&startTime=1755316800000. Waiting 1.73s
+2025-08-16 19:34:52,999 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BTTCUSDT&startTime=1755320400000. Waiting 1.27s
+2025-08-16 19:34:52,999 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FTTUSDT&startTime=1755320400000. Waiting 1.79s
+2025-08-16 19:34:54,441 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=NEXOUSDT&startTime=1755320400000. Waiting 1.15s
+2025-08-16 19:34:54,497 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=RAREUSDT&startTime=1755316800000. Waiting 1.59s
+2025-08-16 19:34:54,511 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CUSDT&startTime=1755316800000. Waiting 1.95s
+2025-08-16 19:34:54,526 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=QIUSDT&startTime=1755320400000. Waiting 1.38s
+2025-08-16 19:34:54,629 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=MEMEUSDT&startTime=1755316800000. Waiting 1.80s
+2025-08-16 19:35:02,375 - INFO - Saved 486181 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-16 19:35:22,810 - INFO - Saved 409695 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-16 20:09:51,940 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SUSDT&startTime=1755302400000. Waiting 1.52s
+2025-08-16 20:09:51,940 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ONGUSDT&startTime=1755316800000. Waiting 1.43s
+2025-08-16 20:09:51,941 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PORTALUSDT&startTime=1755316800000. Waiting 1.59s
+2025-08-16 20:14:13,244 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=1INCHUSDT&startTime=1755316800000. Waiting 1.31s
+2025-08-16 20:14:13,247 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=TONUSDT&startTime=1755302400000. Waiting 1.33s
+2025-08-16 20:14:13,288 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=PORTOUSDT&startTime=1755302400000. Waiting 1.13s
+2025-08-16 20:14:13,288 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=OPUSDT&startTime=1755302400000. Waiting 1.96s
+2025-08-16 20:14:13,288 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ETHFIUSDT&startTime=1755302400000. Waiting 1.48s
+2025-08-16 20:14:13,273 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=TLMUSDT&startTime=1755316800000. Waiting 1.07s
+2025-08-16 20:14:13,286 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DIAUSDT&startTime=1755316800000. Waiting 1.21s
+2025-08-16 20:14:23,475 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=STORJUSDT&startTime=1755316800000. Waiting 1.74s
+2025-08-16 20:14:23,510 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=LAZIOUSDT&startTime=1755302400000. Waiting 1.53s
+2025-08-16 20:14:23,586 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=FIOUSDT&startTime=1755316800000. Waiting 1.38s
+2025-08-16 20:14:28,985 - INFO - Saved 409695 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-16 20:14:48,153 - INFO - Saved 313804 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-16 20:14:48,176 - INFO - Job completed in 7329.3s with 1209630 total rows
+2025-08-16 20:47:48,848 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SXTUSDT&startTime=1755302400000. Waiting 1.39s
+2025-08-16 20:47:50,701 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SIGNUSDT&startTime=1755302400000. Waiting 1.96s
+2025-08-16 21:15:07,090 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=PONDUSDT&startTime=1755302400000. Waiting 1.26s
+2025-08-16 21:15:08,286 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=HOTUSDT&startTime=1755302400000. Waiting 1.48s
+2025-08-16 21:15:08,300 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=JTOUSDT&startTime=1755302400000. Waiting 1.07s
+2025-08-16 21:15:08,443 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=FORMUSDT&startTime=1755302400000. Waiting 1.59s
+2025-08-16 21:15:19,060 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=AUCTIONUSDT&startTime=1755302400000. Waiting 1.42s
+2025-08-16 21:15:23,659 - INFO - Saved 313804 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-16 21:15:23,669 - INFO - Job completed in 7326.1s with 1209680 total rows
+2025-08-17 17:07:35,940 - INFO - Fetched 410 symbols (top all)
+2025-08-17 17:41:21,670 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=MBLUSDT&startTime=1755360000000. Waiting 1.35s
+2025-08-17 17:41:22,203 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=COOKIEUSDT&startTime=1755360000000. Waiting 1.80s
+2025-08-17 18:08:11,463 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=STORJUSDT&startTime=1755360000000. Waiting 1.72s
+2025-08-17 18:08:12,016 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=METISUSDT&startTime=1755360000000. Waiting 1.62s
+2025-08-17 18:08:12,142 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=HYPERUSDT&startTime=1755360000000. Waiting 1.32s
+2025-08-17 18:08:22,722 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=PYTHUSDT&startTime=1755360000000. Waiting 1.37s
+2025-08-17 18:08:22,895 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=PYRUSDT&startTime=1755360000000. Waiting 1.14s
+2025-08-17 18:08:33,187 - INFO - Saved 495257 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-17 18:40:15,463 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=GLMRUSDT&startTime=1755360000000. Waiting 1.88s
+2025-08-17 18:40:15,465 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=RONINUSDT&startTime=1755360000000. Waiting 1.00s
+2025-08-17 18:40:15,484 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CKBUSDT&startTime=1755360000000. Waiting 1.70s
+2025-08-17 19:09:08,408 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=POLYXUSDT&startTime=1755360000000. Waiting 1.14s
+2025-08-17 19:09:11,932 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=LISTAUSDT&startTime=1755360000000. Waiting 1.01s
+2025-08-17 19:09:12,014 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=FORTHUSDT&startTime=1755360000000. Waiting 1.21s
+2025-08-17 19:09:22,620 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SLFUSDT&startTime=1755360000000. Waiting 1.02s
+2025-08-17 19:09:22,721 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=YFIUSDT&startTime=1755360000000. Waiting 1.45s
+2025-08-17 19:09:26,557 - INFO - Saved 411831 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-17 19:41:20,362 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=BICOUSDT&startTime=1755302400000. Waiting 1.35s
+2025-08-17 19:58:51,728 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=REDUSDT&startTime=1755302400000. Waiting 1.14s
+2025-08-17 19:58:51,738 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=HMSTRUSDT&startTime=1755302400000. Waiting 1.28s
+2025-08-17 19:58:51,775 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=NEXOUSDT&startTime=1755302400000. Waiting 1.17s
+2025-08-17 19:58:51,776 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=KNCUSDT&startTime=1755302400000. Waiting 1.72s
+2025-08-17 19:59:02,881 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=HIGHUSDT&startTime=1755302400000. Waiting 1.90s
+2025-08-17 19:59:05,755 - INFO - Saved 314208 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-17 19:59:05,770 - INFO - Job completed in 10299.2s with 1221296 total rows
+2025-08-18 10:05:13,937 - INFO - Fetched 410 symbols (top all)
+2025-08-18 10:37:17,660 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ALICEUSDT&startTime=1755442800000. Waiting 1.21s
+2025-08-18 11:05:59,066 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ARPAUSDT&startTime=1755439200000. Waiting 1.73s
+2025-08-18 11:05:59,286 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=IOTXUSDT&startTime=1755442800000. Waiting 1.93s
+2025-08-18 11:05:59,286 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=STORJUSDT&startTime=1755442800000. Waiting 1.39s
+2025-08-18 11:05:59,295 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=TKOUSDT&startTime=1755439200000. Waiting 1.86s
+2025-08-18 11:06:09,927 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=XVGUSDT&startTime=1755442800000. Waiting 1.79s
+2025-08-18 11:06:13,106 - INFO - Saved 502029 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-18 11:21:30,812 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=GHSTUSDT&startTime=1755446400000. Waiting 1.40s
+2025-08-18 11:21:30,814 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=LSKUSDT&startTime=1755446400000. Waiting 1.98s
+2025-08-18 11:21:32,199 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DFUSDT&startTime=1755432000000. Waiting 1.50s
+2025-08-18 11:21:32,283 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DUSDT&startTime=1755432000000. Waiting 1.80s
+2025-08-18 11:21:32,407 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=VOXELUSDT&startTime=1755446400000. Waiting 1.02s
+2025-08-18 11:21:38,118 - INFO - Saved 413735 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-18 11:56:48,703 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=FLOWUSDT&startTime=1755388800000. Waiting 1.57s
+2025-08-18 11:56:48,705 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=POLYXUSDT&startTime=1755388800000. Waiting 1.11s
+2025-08-18 12:07:03,769 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=MOVEUSDT&startTime=1755388800000. Waiting 1.24s
+2025-08-18 12:07:03,817 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=FISUSDT&startTime=1755388800000. Waiting 1.83s
+2025-08-18 12:07:03,939 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SYNUSDT&startTime=1755388800000. Waiting 1.46s
+2025-08-18 12:07:15,227 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=COTIUSDT&startTime=1755388800000. Waiting 1.07s
+2025-08-18 12:07:15,316 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=MEUSDT&startTime=1755388800000. Waiting 1.21s
+2025-08-18 12:07:19,655 - INFO - Saved 314612 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-18 12:07:19,667 - INFO - Job completed in 7334.3s with 1230376 total rows
+2025-08-18 19:06:37,324 - INFO - Fetched 411 symbols (top all)
+2025-08-18 19:07:11,598 - INFO - Saved 505575 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-18 19:07:44,267 - INFO - Saved 414545 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-18 19:24:31,454 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=CATIUSDT&startTime=1755475200000. Waiting 1.16s
+2025-08-18 19:24:31,581 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=QIUSDT&startTime=1755475200000. Waiting 1.04s
+2025-08-18 19:24:31,585 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=RIFUSDT&startTime=1755475200000. Waiting 1.10s
+2025-08-18 19:24:31,673 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=REQUSDT&startTime=1755475200000. Waiting 1.85s
+2025-08-18 19:24:31,956 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=MTLUSDT&startTime=1755475200000. Waiting 1.78s
+2025-08-18 19:24:37,328 - INFO - Saved 314613 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-18 19:24:37,338 - INFO - Job completed in 1086.5s with 1234733 total rows
+2025-08-19 00:05:11,137 - INFO - Fetched 411 symbols (top all)
+2025-08-19 00:05:44,904 - INFO - Saved 507600 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-19 00:06:18,001 - INFO - Saved 414950 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-19 00:06:51,778 - INFO - Saved 314613 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-19 00:06:51,788 - INFO - Job completed in 107.6s with 1237163 total rows
+2025-08-19 01:05:08,324 - INFO - Fetched 411 symbols (top all)
+2025-08-19 01:05:41,576 - INFO - Saved 508005 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-19 01:06:13,973 - INFO - Saved 414950 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-19 01:06:47,068 - INFO - Saved 314613 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-19 01:06:47,081 - INFO - Job completed in 104.2s with 1237568 total rows
+2025-08-19 02:05:10,013 - INFO - Fetched 411 symbols (top all)
+2025-08-19 02:05:43,884 - INFO - Saved 508410 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-19 02:06:15,984 - INFO - Saved 414950 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-19 02:06:49,285 - INFO - Saved 314613 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-19 02:06:49,296 - INFO - Job completed in 105.7s with 1237973 total rows
+2025-08-19 03:05:14,162 - INFO - Fetched 411 symbols (top all)
+2025-08-19 03:05:48,246 - INFO - Saved 508815 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-19 03:06:22,557 - INFO - Saved 415355 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-19 03:06:56,344 - INFO - Saved 315018 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-19 03:06:56,356 - INFO - Job completed in 109.1s with 1239188 total rows
+2025-08-19 23:06:43,213 - INFO - Fetched 517 symbols (top all)
+2025-08-19 23:07:31,023 - INFO - Saved 622915 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-19 23:08:18,940 - INFO - Saved 523380 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-19 23:09:08,204 - INFO - Saved 408080 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-19 23:09:08,222 - INFO - Job completed in 152.9s with 1554375 total rows
+2025-08-20 00:05:15,528 - INFO - Fetched 517 symbols (top all)
+2025-08-20 00:05:54,490 - INFO - Saved 623320 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-20 00:06:31,344 - INFO - Saved 523380 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-20 00:07:12,197 - INFO - Saved 408080 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-20 00:07:12,224 - INFO - Job completed in 128.0s with 1554780 total rows
+2025-08-20 01:05:22,168 - INFO - Fetched 517 symbols (top all)
+2025-08-20 01:06:04,480 - INFO - Saved 623725 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-20 01:06:45,054 - INFO - Saved 523380 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-20 01:07:25,876 - INFO - Saved 408080 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-20 01:07:25,889 - INFO - Job completed in 141.7s with 1555185 total rows
+2025-08-20 02:05:11,216 - INFO - Fetched 517 symbols (top all)
+2025-08-20 02:05:47,834 - INFO - Saved 624130 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-20 02:06:24,120 - INFO - Saved 523380 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-20 02:06:59,533 - INFO - Saved 408080 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-20 02:06:59,560 - INFO - Job completed in 115.2s with 1555590 total rows
+2025-08-20 03:05:12,012 - INFO - Fetched 517 symbols (top all)
+2025-08-20 03:05:49,461 - INFO - Saved 624535 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-20 03:06:26,575 - INFO - Saved 523785 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-20 03:07:02,116 - INFO - Saved 408485 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-20 03:07:02,129 - INFO - Job completed in 117.5s with 1556805 total rows
+2025-08-20 22:05:12,355 - INFO - Fetched 517 symbols (top all)
+2025-08-20 22:05:49,840 - INFO - Saved 632230 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-20 22:06:31,270 - INFO - Saved 525405 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-20 22:07:07,801 - INFO - Saved 408485 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-20 22:07:07,816 - INFO - Job completed in 123.2s with 1566120 total rows
+2025-08-20 23:05:11,956 - INFO - Fetched 517 symbols (top all)
+2025-08-20 23:05:53,244 - INFO - Saved 632635 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-20 23:06:32,355 - INFO - Saved 525810 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-20 23:07:10,299 - INFO - Saved 408485 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-20 23:07:10,311 - INFO - Job completed in 125.6s with 1566930 total rows
+2025-08-21 00:05:12,124 - INFO - Fetched 517 symbols (top all)
+2025-08-21 00:05:48,061 - INFO - Saved 633040 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-21 00:06:23,288 - INFO - Saved 525810 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-21 00:06:58,889 - INFO - Saved 408485 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-21 00:06:58,901 - INFO - Job completed in 114.3s with 1567335 total rows
+2025-08-21 01:05:16,921 - INFO - Fetched 517 symbols (top all)
+2025-08-21 01:05:58,365 - INFO - Saved 633445 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-21 01:06:39,142 - INFO - Saved 525810 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-21 01:07:20,032 - INFO - Saved 408485 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-21 01:07:20,043 - INFO - Job completed in 132.3s with 1567740 total rows
+2025-08-21 05:05:14,460 - INFO - Fetched 517 symbols (top all)
+2025-08-21 05:05:57,093 - INFO - Saved 635065 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-21 05:06:39,004 - INFO - Saved 526215 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-21 05:07:21,158 - INFO - Saved 408890 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-21 05:07:21,173 - INFO - Job completed in 133.5s with 1570170 total rows
+2025-08-21 09:05:14,636 - INFO - Fetched 517 symbols (top all)
+2025-08-21 09:05:57,224 - INFO - Saved 636685 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-21 09:21:49,319 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=IRISUSDT&startTime=1733788800000. Waiting 1.80s
+2025-08-21 09:21:50,806 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=VIBUSDT&startTime=1746144000000. Waiting 1.21s
+2025-08-21 09:21:50,829 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ALCXUSDT&startTime=1755734400000. Waiting 1.41s
+2025-08-21 09:21:50,854 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CVCUSDT&startTime=1755734400000. Waiting 1.94s
+2025-08-21 09:21:50,939 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PIVXUSDT&startTime=1755734400000. Waiting 1.32s
+2025-08-21 09:21:58,187 - INFO - Saved 526620 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-21 09:22:39,561 - INFO - Saved 408890 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-21 09:22:39,576 - INFO - Job completed in 1052.1s with 1572195 total rows
+2025-08-21 13:05:12,382 - INFO - Fetched 517 symbols (top all)
+2025-08-21 13:05:55,073 - INFO - Saved 638305 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-21 13:06:37,500 - INFO - Saved 527025 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-21 13:07:19,367 - INFO - Saved 408890 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-21 13:07:19,379 - INFO - Job completed in 133.6s with 1574220 total rows
+2025-08-21 16:05:10,583 - INFO - Fetched 517 symbols (top all)
+2025-08-21 16:05:47,753 - INFO - Saved 639520 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-21 16:06:24,385 - INFO - Saved 527430 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-21 16:07:00,124 - INFO - Saved 408890 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-21 16:07:00,136 - INFO - Job completed in 116.2s with 1575840 total rows
+2025-08-21 17:05:11,793 - INFO - Fetched 517 symbols (top all)
+2025-08-21 17:05:50,656 - INFO - Saved 639925 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-21 17:06:27,383 - INFO - Saved 527430 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-21 17:07:08,490 - INFO - Saved 408890 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-21 17:07:08,506 - INFO - Job completed in 123.2s with 1576245 total rows
+2025-08-21 19:05:12,490 - INFO - Fetched 517 symbols (top all)
+2025-08-21 19:05:56,313 - INFO - Saved 640735 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-21 19:06:39,474 - INFO - Saved 527835 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-21 19:07:21,035 - INFO - Saved 408890 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-21 19:07:21,051 - INFO - Job completed in 135.3s with 1577460 total rows
+2025-08-21 21:05:11,480 - INFO - Fetched 517 symbols (top all)
+2025-08-21 21:05:53,883 - INFO - Saved 641545 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-21 21:06:35,570 - INFO - Saved 527835 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-21 21:07:17,622 - INFO - Saved 408890 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-21 21:07:17,636 - INFO - Job completed in 132.0s with 1578270 total rows
+2025-08-22 00:05:10,343 - INFO - Fetched 517 symbols (top all)
+2025-08-22 00:05:52,486 - INFO - Saved 642760 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-22 00:06:33,937 - INFO - Saved 528240 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-22 00:07:14,585 - INFO - Saved 408890 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-22 00:07:14,602 - INFO - Job completed in 131.1s with 1579890 total rows
+2025-08-22 01:05:11,485 - INFO - Fetched 517 symbols (top all)
+2025-08-22 01:05:53,382 - INFO - Saved 643165 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-22 01:22:14,780 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PIVXUSDT&startTime=1755806400000. Waiting 1.97s
+2025-08-22 01:22:14,781 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BIGTIMEUSDT&startTime=1755806400000. Waiting 1.62s
+2025-08-22 01:22:16,252 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=WANUSDT&startTime=1755806400000. Waiting 1.05s
+2025-08-22 01:22:16,401 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=IRISUSDT&startTime=1733788800000. Waiting 1.87s
+2025-08-22 01:22:16,439 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=VIBUSDT&startTime=1746144000000. Waiting 1.02s
+2025-08-22 01:22:23,319 - INFO - Saved 528240 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-22 01:23:05,669 - INFO - Saved 408890 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-22 01:23:05,683 - INFO - Job completed in 1082.2s with 1580295 total rows
+2025-08-22 06:05:12,174 - INFO - Fetched 517 symbols (top all)
+2025-08-22 06:38:22,471 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CGPTUSDT&startTime=1755813600000. Waiting 1.34s
+2025-08-22 07:05:55,507 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SUNUSDT&startTime=1755813600000. Waiting 1.46s
+2025-08-22 07:05:55,764 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SOPHUSDT&startTime=1755813600000. Waiting 1.17s
+2025-08-22 07:05:55,861 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CELRUSDT&startTime=1755813600000. Waiting 1.55s
+2025-08-22 07:05:55,861 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=AEVOUSDT&startTime=1755813600000. Waiting 1.81s
+2025-08-22 07:06:06,140 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CGPTUSDT&startTime=1755813600000. Waiting 2.15s
+2025-08-22 07:06:19,199 - INFO - Saved 645324 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-22 07:40:26,173 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=STOUSDT&startTime=1755806400000. Waiting 1.45s
+2025-08-22 07:40:28,057 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ATAUSDT&startTime=1755806400000. Waiting 1.14s
+2025-08-22 08:06:57,377 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ACAUSDT&startTime=1755806400000. Waiting 1.15s
+2025-08-22 08:06:57,496 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SIGNUSDT&startTime=1755806400000. Waiting 1.27s
+2025-08-22 08:06:57,510 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=COWUSDT&startTime=1755806400000. Waiting 1.63s
+2025-08-22 08:07:08,072 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SOPHUSDT&startTime=1755806400000. Waiting 1.04s
+2025-08-22 08:07:08,164 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CGPTUSDT&startTime=1755806400000. Waiting 1.28s
+2025-08-22 08:07:21,849 - INFO - Saved 529050 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-22 08:33:44,735 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=CELOUSDT&startTime=1755734400000. Waiting 1.91s
+2025-08-22 08:33:44,736 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=GALUSDT&startTime=1721001600000. Waiting 1.07s
+2025-08-22 08:33:44,837 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=KMNOUSDT&startTime=1755734400000. Waiting 1.78s
+2025-08-22 08:33:44,928 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=YGGUSDT&startTime=1755734400000. Waiting 1.85s
+2025-08-22 08:33:44,962 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=HOTUSDT&startTime=1755734400000. Waiting 1.19s
+2025-08-22 08:34:08,710 - INFO - Saved 409295 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-22 08:34:08,728 - INFO - Job completed in 8944.9s with 1583669 total rows
+2025-08-22 12:11:29,658 - INFO - Fetched 517 symbols (top all)
+2025-08-22 12:33:21,099 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CHRUSDT&startTime=1755831600000. Waiting 1.56s
+2025-08-22 12:33:21,104 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ZILUSDT&startTime=1755831600000. Waiting 1.95s
+2025-08-22 12:33:21,107 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CVXUSDT&startTime=1755831600000. Waiting 1.46s
+2025-08-22 12:33:22,628 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=REZUSDT&startTime=1755831600000. Waiting 1.73s
+2025-08-22 12:33:22,699 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=IOTAUSDT&startTime=1755831600000. Waiting 1.01s
+2025-08-22 12:33:54,386 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=REZUSDT&startTime=1755831600000. Waiting 2.84s
+2025-08-22 12:51:18,914 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=WBETHUSDT&startTime=1755831600000. Waiting 1.02s
+2025-08-22 13:02:27,520 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=WBETHUSDT&startTime=1755831600000. Waiting 2.38s
+2025-08-22 13:02:27,536 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=REZUSDT&startTime=1755831600000. Waiting 4.99s
+2025-08-22 13:02:32,642 - ERROR - Failed to fetch REZ/USDT [1h]: Failed after 3 retries
+2025-08-22 13:02:37,610 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SOLVUSDT&startTime=1755831600000. Waiting 1.43s
+2025-08-22 13:02:37,611 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=WBETHUSDT&startTime=1755831600000. Waiting 4.82s
+2025-08-22 13:02:39,175 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SOLVUSDT&startTime=1755831600000. Waiting 2.64s
+2025-08-22 13:02:39,971 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FUNUSDT&startTime=1755831600000. Waiting 1.06s
+2025-08-22 13:02:41,133 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FUNUSDT&startTime=1755831600000. Waiting 2.98s
+2025-08-22 13:02:41,306 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SUPERUSDT&startTime=1755831600000. Waiting 1.70s
+2025-08-22 13:02:41,765 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ZRXUSDT&startTime=1755831600000. Waiting 1.24s
+2025-08-22 13:02:41,942 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SOLVUSDT&startTime=1755831600000. Waiting 4.94s
+2025-08-22 13:02:42,570 - ERROR - Failed to fetch WBETH/USDT [1h]: Failed after 3 retries
+2025-08-22 13:02:42,577 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LUNCUSDT&startTime=1755831600000. Waiting 1.11s
+2025-08-22 13:02:43,011 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ZRXUSDT&startTime=1755831600000. Waiting 2.64s
+2025-08-22 13:02:43,151 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SUPERUSDT&startTime=1755831600000. Waiting 2.42s
+2025-08-22 13:02:43,833 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LUNCUSDT&startTime=1755831600000. Waiting 2.57s
+2025-08-22 13:02:44,267 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FUNUSDT&startTime=1755831600000. Waiting 4.82s
+2025-08-22 13:02:45,674 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ZRXUSDT&startTime=1755831600000. Waiting 4.36s
+2025-08-22 13:02:45,886 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SUPERUSDT&startTime=1755831600000. Waiting 4.99s
+2025-08-22 13:02:46,553 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LUNCUSDT&startTime=1755831600000. Waiting 4.77s
+2025-08-22 13:02:46,932 - ERROR - Failed to fetch SOLV/USDT [1h]: Failed after 3 retries
+2025-08-22 13:02:46,938 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LAZIOUSDT&startTime=1755831600000. Waiting 1.92s
+2025-08-22 13:02:48,929 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LAZIOUSDT&startTime=1755831600000. Waiting 2.44s
+2025-08-22 13:02:49,229 - ERROR - Failed to fetch FUN/USDT [1h]: Failed after 3 retries
+2025-08-22 13:02:49,235 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=RNDRUSDT&startTime=1721613600000. Waiting 1.53s
+2025-08-22 13:02:50,171 - ERROR - Failed to fetch ZRX/USDT [1h]: Failed after 3 retries
+2025-08-22 13:02:50,179 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=GUNUSDT&startTime=1755831600000. Waiting 1.15s
+2025-08-22 13:02:50,890 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=RNDRUSDT&startTime=1721613600000. Waiting 2.29s
+2025-08-22 13:02:50,950 - ERROR - Failed to fetch SUPER/USDT [1h]: Failed after 3 retries
+2025-08-22 13:02:51,023 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=RAREUSDT&startTime=1755831600000. Waiting 1.68s
+2025-08-22 13:02:51,472 - ERROR - Failed to fetch LUNC/USDT [1h]: Failed after 3 retries
+2025-08-22 13:02:51,479 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BABYUSDT&startTime=1755831600000. Waiting 1.90s
+2025-08-22 13:02:51,691 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=GUNUSDT&startTime=1755831600000. Waiting 2.39s
+2025-08-22 13:02:51,692 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LAZIOUSDT&startTime=1755831600000. Waiting 4.89s
+2025-08-22 13:02:52,827 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=RAREUSDT&startTime=1755831600000. Waiting 2.71s
+2025-08-22 13:02:53,316 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=RNDRUSDT&startTime=1721613600000. Waiting 4.51s
+2025-08-22 13:02:53,537 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BABYUSDT&startTime=1755831600000. Waiting 2.53s
+2025-08-22 13:02:54,155 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=GUNUSDT&startTime=1755831600000. Waiting 4.48s
+2025-08-22 13:02:55,694 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=RAREUSDT&startTime=1755831600000. Waiting 4.98s
+2025-08-22 13:02:56,222 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BABYUSDT&startTime=1755831600000. Waiting 4.76s
+2025-08-22 13:02:56,727 - ERROR - Failed to fetch LAZIO/USDT [1h]: Failed after 3 retries
+2025-08-22 13:02:56,733 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=KSMUSDT&startTime=1755831600000. Waiting 1.49s
+2025-08-22 13:02:57,951 - ERROR - Failed to fetch RNDR/USDT [1h]: Failed after 3 retries
+2025-08-22 13:02:57,958 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LPTUSDT&startTime=1755831600000. Waiting 1.32s
+2025-08-22 13:02:58,353 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=KSMUSDT&startTime=1755831600000. Waiting 2.28s
+2025-08-22 13:02:58,779 - ERROR - Failed to fetch GUN/USDT [1h]: Failed after 3 retries
+2025-08-22 13:02:58,785 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=XVGUSDT&startTime=1755835200000. Waiting 1.13s
+2025-08-22 13:02:59,417 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LPTUSDT&startTime=1755831600000. Waiting 2.19s
+2025-08-22 13:02:59,944 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=XVGUSDT&startTime=1755835200000. Waiting 2.54s
+2025-08-22 13:03:00,718 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=KSMUSDT&startTime=1755831600000. Waiting 4.93s
+2025-08-22 13:03:00,830 - ERROR - Failed to fetch RARE/USDT [1h]: Failed after 3 retries
+2025-08-22 13:03:00,851 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=1INCHUSDT&startTime=1755831600000. Waiting 1.28s
+2025-08-22 13:03:01,097 - ERROR - Failed to fetch BABY/USDT [1h]: Failed after 3 retries
+2025-08-22 13:03:01,105 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BNSOLUSDT&startTime=1755831600000. Waiting 1.94s
+2025-08-22 13:03:01,707 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LPTUSDT&startTime=1755831600000. Waiting 4.22s
+2025-08-22 13:03:02,279 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=1INCHUSDT&startTime=1755831600000. Waiting 2.36s
+2025-08-22 13:03:02,633 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=XVGUSDT&startTime=1755835200000. Waiting 4.05s
+2025-08-22 13:03:03,178 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BNSOLUSDT&startTime=1755831600000. Waiting 2.80s
+2025-08-22 13:03:04,766 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=1INCHUSDT&startTime=1755831600000. Waiting 4.61s
+2025-08-22 13:03:05,785 - ERROR - Failed to fetch KSM/USDT [1h]: Failed after 3 retries
+2025-08-22 13:03:05,790 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=IMXUSDT&startTime=1755831600000. Waiting 1.26s
+2025-08-22 13:03:06,043 - ERROR - Failed to fetch LPT/USDT [1h]: Failed after 3 retries
+2025-08-22 13:03:06,049 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=COCOSUSDT&startTime=1685343600000. Waiting 1.77s
+2025-08-22 13:03:06,129 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BNSOLUSDT&startTime=1755831600000. Waiting 4.27s
+2025-08-22 13:03:06,833 - ERROR - Failed to fetch XVG/USDT [1h]: Failed after 3 retries
+2025-08-22 13:03:06,840 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LQTYUSDT&startTime=1755831600000. Waiting 1.76s
+2025-08-22 13:03:07,201 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=IMXUSDT&startTime=1755831600000. Waiting 2.54s
+2025-08-22 13:03:07,965 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=COCOSUSDT&startTime=1685343600000. Waiting 2.94s
+2025-08-22 13:03:08,707 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LQTYUSDT&startTime=1755831600000. Waiting 2.57s
+2025-08-22 13:03:09,510 - ERROR - Failed to fetch 1INCH/USDT [1h]: Failed after 3 retries
+2025-08-22 13:03:09,516 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=PORTALUSDT&startTime=1755831600000. Waiting 1.80s
+2025-08-22 13:03:09,860 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=IMXUSDT&startTime=1755831600000. Waiting 4.66s
+2025-08-22 13:03:10,492 - ERROR - Failed to fetch BNSOL/USDT [1h]: Failed after 3 retries
+2025-08-22 13:03:10,498 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=MLNUSDT&startTime=1755831600000. Waiting 1.17s
+2025-08-22 13:03:10,984 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=COCOSUSDT&startTime=1685343600000. Waiting 4.98s
+2025-08-22 13:03:11,433 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LQTYUSDT&startTime=1755831600000. Waiting 4.60s
+2025-08-22 13:03:11,628 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=PORTALUSDT&startTime=1755831600000. Waiting 2.21s
+2025-08-22 13:03:11,806 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=MLNUSDT&startTime=1755831600000. Waiting 2.88s
+2025-08-22 13:03:13,955 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=PORTALUSDT&startTime=1755831600000. Waiting 4.86s
+2025-08-22 13:03:14,597 - ERROR - Failed to fetch IMX/USDT [1h]: Failed after 3 retries
+2025-08-22 13:03:14,603 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=POLYUSDT&startTime=1665367200000. Waiting 1.64s
+2025-08-22 13:03:14,837 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=MLNUSDT&startTime=1755831600000. Waiting 4.35s
+2025-08-22 13:06:46,342 - ERROR - Failed to fetch COCOS/USDT [1h]: Failed after 3 retries
+2025-08-22 13:06:46,350 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=KAVAUSDT&startTime=1755831600000. Waiting 1.71s
+2025-08-22 13:06:46,455 - ERROR - Failed to fetch LQTY/USDT [1h]: Failed after 3 retries
+2025-08-22 13:06:46,462 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=STGUSDT&startTime=1755831600000. Waiting 1.50s
+2025-08-22 13:06:46,671 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=POLYUSDT&startTime=1665367200000. Waiting 2.50s
+2025-08-22 13:06:48,092 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=STGUSDT&startTime=1755831600000. Waiting 2.68s
+2025-08-22 13:06:48,245 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=KAVAUSDT&startTime=1755831600000. Waiting 2.63s
+2025-08-22 13:06:49,192 - ERROR - Failed to fetch PORTAL/USDT [1h]: Failed after 3 retries
+2025-08-22 13:06:49,199 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=KDAUSDT&startTime=1755831600000. Waiting 1.57s
+2025-08-22 13:06:49,355 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=POLYUSDT&startTime=1665367200000. Waiting 4.36s
+2025-08-22 13:06:49,716 - ERROR - Failed to fetch MLN/USDT [1h]: Failed after 3 retries
+2025-08-22 13:06:49,727 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=GRTUSDT&startTime=1755831600000. Waiting 1.22s
+2025-08-22 13:06:53,863 - ERROR - Failed to fetch POLY/USDT [1h]: Failed after 3 retries
+2025-08-22 13:07:13,209 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=STGUSDT&startTime=1755831600000. Waiting 4.74s
+2025-08-22 13:07:13,545 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=GRTUSDT&startTime=1755831600000. Waiting 2.82s
+2025-08-22 13:07:18,118 - ERROR - Failed to fetch STG/USDT [1h]: Failed after 3 retries
+2025-08-22 13:07:41,055 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-22 13:07:45,743 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=GRTUSDT&startTime=1755831600000. Waiting 4.31s
+2025-08-22 13:07:50,150 - ERROR - Failed to fetch GRT/USDT [1h]: Failed after 3 retries
+2025-08-22 13:07:58,411 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=AUCTIONUSDT&startTime=1755835200000. Waiting 1.41s
+2025-08-22 13:12:13,859 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BTGUSDT&startTime=1666598400000. Waiting 1.99s
+2025-08-22 13:12:15,754 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FIOUSDT&startTime=1755831600000. Waiting 1.74s
+2025-08-22 13:12:15,922 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BTCSTUSDT&startTime=1669600800000. Waiting 1.20s
+2025-08-22 13:12:15,965 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=QKCUSDT&startTime=1755835200000. Waiting 1.14s
+2025-08-22 13:12:16,059 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=AMPUSDT&startTime=1755835200000. Waiting 1.10s
+2025-08-22 13:27:57,505 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SPELLUSDT&startTime=1755835200000. Waiting 1.65s
+2025-08-22 13:44:34,360 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SPELLUSDT&startTime=1755835200000. Waiting 2.35s
+2025-08-22 13:44:34,641 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=NTRNUSDT&startTime=1755835200000. Waiting 1.24s
+2025-08-22 14:00:33,349 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SPELLUSDT&startTime=1755835200000. Waiting 4.53s
+2025-08-22 14:00:33,350 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=NTRNUSDT&startTime=1755835200000. Waiting 2.82s
+2025-08-22 14:00:37,982 - ERROR - Failed to fetch SPELL/USDT [1h]: Failed after 3 retries
+2025-08-22 14:12:56,332 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=NTRNUSDT&startTime=1755835200000. Waiting 4.70s
+2025-08-22 14:12:56,332 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=DREPUSDT&startTime=1712109600000. Waiting 1.34s
+2025-08-22 14:12:59,546 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=MITHUSDT&startTime=1671696000000. Waiting 1.83s
+2025-08-22 14:12:59,731 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LTOUSDT&startTime=1751594400000. Waiting 1.81s
+2025-08-22 14:12:59,824 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=CHESSUSDT&startTime=1755835200000. Waiting 1.54s
+2025-08-22 14:13:01,163 - ERROR - Failed to fetch NTRN/USDT [1h]: Failed after 3 retries
+2025-08-22 14:13:27,099 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LTOUSDT&startTime=1751594400000. Waiting 2.11s
+2025-08-22 14:13:32,148 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=OSMOUSDT&startTime=1755835200000. Waiting 1.18s
+2025-08-22 14:48:17,787 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=KEYUSDT&startTime=1733796000000. Waiting 1.67s
+2025-08-22 14:48:20,985 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=OSMOUSDT&startTime=1755835200000. Waiting 2.99s
+2025-08-22 15:05:43,226 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=KEYUSDT&startTime=1733796000000. Waiting 2.04s
+2025-08-22 15:13:56,147 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=KEYUSDT&startTime=1733796000000. Waiting 4.67s
+2025-08-22 15:13:56,147 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=OSMOUSDT&startTime=1755835200000. Waiting 4.58s
+2025-08-22 15:13:59,756 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=LTOUSDT&startTime=1751594400000. Waiting 4.56s
+2025-08-22 15:14:01,141 - ERROR - Failed to fetch OSMO/USDT [1h]: Failed after 3 retries
+2025-08-22 15:14:01,212 - ERROR - Failed to fetch KEY/USDT [1h]: Failed after 3 retries
+2025-08-22 15:14:04,461 - ERROR - Failed to fetch LTO/USDT [1h]: Failed after 3 retries
+2025-08-22 15:14:05,589 - INFO - Saved 647681 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-22 15:14:25,940 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=FDUSDUSDT&startTime=1755835200000. Waiting 1.52s
+2025-08-22 15:14:26,011 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SOLUSDT&startTime=1755835200000. Waiting 1.64s
+2025-08-22 15:46:41,841 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=WIFUSDT&startTime=1755835200000. Waiting 1.20s
+2025-08-22 15:46:42,184 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=FDUSDUSDT&startTime=1755835200000. Waiting 2.65s
+2025-08-22 15:46:43,458 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SOLUSDT&startTime=1755835200000. Waiting 2.47s
+2025-08-22 16:14:57,007 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SOLUSDT&startTime=1755835200000. Waiting 4.11s
+2025-08-22 16:14:57,649 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CRVUSDT&startTime=1755835200000. Waiting 1.17s
+2025-08-22 16:14:58,338 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=QTUMUSDT&startTime=1755835200000. Waiting 1.96s
+2025-08-22 16:14:58,673 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=WIFUSDT&startTime=1755835200000. Waiting 2.47s
+2025-08-22 16:15:01,067 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=FDUSDUSDT&startTime=1755835200000. Waiting 4.38s
+2025-08-22 16:15:01,258 - ERROR - Failed to fetch SOL/USDT [4h]: Failed after 3 retries
+2025-08-22 16:15:05,708 - ERROR - Failed to fetch FDUSD/USDT [4h]: Failed after 3 retries
+2025-08-22 16:46:31,757 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=OGNUSDT&startTime=1755835200000. Waiting 1.25s
+2025-08-22 16:46:33,541 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=RUNEUSDT&startTime=1755835200000. Waiting 1.24s
+2025-08-22 16:46:44,234 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=RADUSDT&startTime=1755835200000. Waiting 1.48s
+2025-08-22 16:46:44,923 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PAXGUSDT&startTime=1755835200000. Waiting 1.22s
+2025-08-22 16:46:45,036 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=INITUSDT&startTime=1755835200000. Waiting 1.46s
+2025-08-22 16:47:00,936 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SCUSDT&startTime=1755835200000. Waiting 1.82s
+2025-08-22 17:02:20,120 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SAGAUSDT&startTime=1755835200000. Waiting 1.42s
+2025-08-22 17:02:21,483 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=INITUSDT&startTime=1755835200000. Waiting 2.70s
+2025-08-22 17:15:56,079 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=INITUSDT&startTime=1755835200000. Waiting 4.27s
+2025-08-22 17:15:56,079 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SAGAUSDT&startTime=1755835200000. Waiting 2.43s
+2025-08-22 17:15:57,160 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SCUSDT&startTime=1755835200000. Waiting 2.80s
+2025-08-22 17:15:59,149 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BOMEUSDT&startTime=1755835200000. Waiting 1.94s
+2025-08-22 17:16:00,592 - ERROR - Failed to fetch INIT/USDT [4h]: Failed after 3 retries
+2025-08-22 17:16:02,492 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DYDXUSDT&startTime=1755835200000. Waiting 1.74s
+2025-08-22 17:16:28,893 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SAGAUSDT&startTime=1755835200000. Waiting 4.78s
+2025-08-22 17:16:30,111 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SCUSDT&startTime=1755835200000. Waiting 4.38s
+2025-08-22 17:16:30,603 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PONDUSDT&startTime=1755835200000. Waiting 1.49s
+2025-08-22 17:16:31,251 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BOMEUSDT&startTime=1755835200000. Waiting 2.09s
+2025-08-22 17:16:33,807 - ERROR - Failed to fetch SAGA/USDT [4h]: Failed after 3 retries
+2025-08-22 17:16:34,381 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DYDXUSDT&startTime=1755835200000. Waiting 2.16s
+2025-08-22 17:16:34,634 - ERROR - Failed to fetch SC/USDT [4h]: Failed after 3 retries
+2025-08-22 17:34:38,046 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DYDXUSDT&startTime=1755835200000. Waiting 4.77s
+2025-08-22 17:34:38,047 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ZKUSDT&startTime=1755835200000. Waiting 1.62s
+2025-08-22 17:34:38,047 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=MDTUSDT&startTime=1755835200000. Waiting 1.61s
+2025-08-22 17:34:38,047 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BOMEUSDT&startTime=1755835200000. Waiting 4.16s
+2025-08-22 17:34:38,047 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PONDUSDT&startTime=1755835200000. Waiting 2.57s
+2025-08-22 17:34:42,355 - ERROR - Failed to fetch BOME/USDT [4h]: Failed after 3 retries
+2025-08-22 17:34:42,955 - ERROR - Failed to fetch DYDX/USDT [4h]: Failed after 3 retries
+2025-08-22 17:51:22,034 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PYTHUSDT&startTime=1755835200000. Waiting 1.97s
+2025-08-22 17:51:22,036 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=AUSDT&startTime=1755835200000. Waiting 1.60s
+2025-08-22 17:51:22,036 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PONDUSDT&startTime=1755835200000. Waiting 4.70s
+2025-08-22 17:51:22,037 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=MDTUSDT&startTime=1755835200000. Waiting 2.80s
+2025-08-22 17:51:22,037 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ZKUSDT&startTime=1755835200000. Waiting 2.92s
+2025-08-22 17:51:26,861 - ERROR - Failed to fetch POND/USDT [4h]: Failed after 3 retries
+2025-08-22 18:06:52,036 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=RESOLVUSDT&startTime=1755835200000. Waiting 1.95s
+2025-08-22 18:06:52,037 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ZKUSDT&startTime=1755835200000. Waiting 4.33s
+2025-08-22 18:06:52,038 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=MDTUSDT&startTime=1755835200000. Waiting 4.53s
+2025-08-22 18:06:52,039 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=AUSDT&startTime=1755835200000. Waiting 2.59s
+2025-08-22 18:06:52,039 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PYTHUSDT&startTime=1755835200000. Waiting 2.92s
+2025-08-22 18:06:56,523 - ERROR - Failed to fetch ZK/USDT [4h]: Failed after 3 retries
+2025-08-22 18:06:56,752 - ERROR - Failed to fetch MDT/USDT [4h]: Failed after 3 retries
+2025-08-22 18:16:56,226 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=MAGICUSDT&startTime=1755835200000. Waiting 1.51s
+2025-08-22 18:16:56,227 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=REDUSDT&startTime=1755835200000. Waiting 1.26s
+2025-08-22 18:16:56,228 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PYTHUSDT&startTime=1755835200000. Waiting 4.48s
+2025-08-22 18:16:56,229 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=AUSDT&startTime=1755835200000. Waiting 4.49s
+2025-08-22 18:16:56,229 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=RESOLVUSDT&startTime=1755835200000. Waiting 2.73s
+2025-08-22 18:17:00,809 - ERROR - Failed to fetch A/USDT [4h]: Failed after 3 retries
+2025-08-22 18:17:00,809 - ERROR - Failed to fetch PYTH/USDT [4h]: Failed after 3 retries
+2025-08-22 18:17:30,320 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BMTUSDT&startTime=1755835200000. Waiting 1.97s
+2025-08-22 18:17:38,550 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ALTUSDT&startTime=1755835200000. Waiting 1.95s
+2025-08-22 18:49:29,326 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ILVUSDT&startTime=1755835200000. Waiting 1.84s
+2025-08-22 19:17:57,794 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BMTUSDT&startTime=1755835200000. Waiting 2.34s
+2025-08-22 19:17:58,309 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ACTUSDT&startTime=1755835200000. Waiting 1.13s
+2025-08-22 19:17:58,678 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ALTUSDT&startTime=1755835200000. Waiting 2.66s
+2025-08-22 19:17:59,608 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=THETAUSDT&startTime=1755835200000. Waiting 1.33s
+2025-08-22 19:18:01,438 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ILVUSDT&startTime=1755835200000. Waiting 2.85s
+2025-08-22 19:18:29,607 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ACTUSDT&startTime=1755835200000. Waiting 2.77s
+2025-08-22 19:18:30,180 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BMTUSDT&startTime=1755835200000. Waiting 4.96s
+2025-08-22 19:18:30,977 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=THETAUSDT&startTime=1755835200000. Waiting 2.61s
+2025-08-22 19:18:31,440 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ALTUSDT&startTime=1755835200000. Waiting 4.21s
+2025-08-22 19:18:34,420 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ILVUSDT&startTime=1755835200000. Waiting 4.03s
+2025-08-22 19:18:35,286 - ERROR - Failed to fetch BMT/USDT [4h]: Failed after 3 retries
+2025-08-22 19:18:35,798 - ERROR - Failed to fetch ALT/USDT [4h]: Failed after 3 retries
+2025-08-22 19:18:38,585 - ERROR - Failed to fetch ILV/USDT [4h]: Failed after 3 retries
+2025-08-22 19:57:13,236 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=RONINUSDT&startTime=1755835200000. Waiting 1.99s
+2025-08-22 19:57:14,184 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=NXPCUSDT&startTime=1755835200000. Waiting 1.61s
+2025-08-22 19:57:15,214 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ACTUSDT&startTime=1755835200000. Waiting 4.80s
+2025-08-22 19:57:16,578 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SNXUSDT&startTime=1755835200000. Waiting 1.59s
+2025-08-22 19:57:17,151 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=THEUSDT&startTime=1755835200000. Waiting 1.74s
+2025-08-22 19:57:20,166 - ERROR - Failed to fetch ACT/USDT [4h]: Failed after 3 retries
+2025-08-22 19:57:39,096 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=THEUSDT&startTime=1755835200000. Waiting 2.64s
+2025-08-22 20:19:07,477 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=SXTUSDT&startTime=1755835200000. Waiting 1.80s
+2025-08-22 20:19:11,772 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DYMUSDT&startTime=1755835200000. Waiting 1.74s
+2025-08-22 20:19:12,029 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ONEUSDT&startTime=1755835200000. Waiting 1.70s
+2025-08-22 20:19:12,403 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CTKUSDT&startTime=1755835200000. Waiting 1.14s
+2025-08-22 20:19:12,404 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=COWUSDT&startTime=1755835200000. Waiting 1.88s
+2025-08-22 21:08:42,784 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=LITUSDT&startTime=1739145600000. Waiting 1.81s
+2025-08-22 21:20:00,029 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=MFTUSDT&startTime=1672704000000. Waiting 1.71s
+2025-08-22 21:20:00,647 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=HMSTRUSDT&startTime=1755835200000. Waiting 1.55s
+2025-08-22 21:20:00,853 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DGBUSDT&startTime=1755835200000. Waiting 1.96s
+2025-08-22 21:20:00,868 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BEAMUSDT&startTime=1674720000000. Waiting 1.61s
+2025-08-22 21:20:17,221 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=LITUSDT&startTime=1739145600000. Waiting 2.76s
+2025-08-22 21:54:48,331 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=LEVERUSDT&startTime=1751587200000. Waiting 1.35s
+2025-08-22 22:10:11,559 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=LEVERUSDT&startTime=1751587200000. Waiting 2.63s
+2025-08-22 22:20:57,536 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=LEVERUSDT&startTime=1751587200000. Waiting 4.55s
+2025-08-22 22:20:57,808 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=FIROUSDT&startTime=1744761600000. Waiting 1.12s
+2025-08-22 22:20:58,279 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CHESSUSDT&startTime=1755835200000. Waiting 1.06s
+2025-08-22 22:20:59,223 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=WRXUSDT&startTime=1735084800000. Waiting 1.81s
+2025-08-22 22:21:01,188 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=VIBUSDT&startTime=1746144000000. Waiting 1.33s
+2025-08-22 22:21:02,347 - ERROR - Failed to fetch LEVER/USDT [4h]: Failed after 3 retries
+2025-08-22 22:55:32,960 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=MDXUSDT&startTime=1721606400000. Waiting 1.38s
+2025-08-22 22:55:33,150 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PNTUSDT&startTime=1712102400000. Waiting 1.01s
+2025-08-22 22:55:34,561 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BTSUSDT&startTime=1701907200000. Waiting 1.58s
+2025-08-22 22:55:35,446 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CTXCUSDT&startTime=1744761600000. Waiting 1.54s
+2025-08-22 22:55:36,048 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DEXEUSDT&startTime=1755835200000. Waiting 1.03s
+2025-08-22 23:22:08,965 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=MDXUSDT&startTime=1721606400000. Waiting 2.04s
+2025-08-22 23:22:09,929 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PNTUSDT&startTime=1712102400000. Waiting 2.14s
+2025-08-22 23:22:11,214 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CTXCUSDT&startTime=1744761600000. Waiting 2.34s
+2025-08-22 23:22:11,324 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BTSUSDT&startTime=1701907200000. Waiting 2.70s
+2025-08-22 23:22:12,590 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=DEXEUSDT&startTime=1755835200000. Waiting 2.49s
+2025-08-22 23:22:36,713 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PNTUSDT&startTime=1712102400000. Waiting 4.53s
+2025-08-22 23:22:41,376 - ERROR - Failed to fetch PNT/USDT [4h]: Failed after 3 retries
+2025-08-22 23:22:42,366 - INFO - Saved 530054 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-23 00:22:59,075 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ETHUSDT&startTime=1755820800000. Waiting 1.84s
+2025-08-23 00:22:59,269 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=USDCUSDT&startTime=1755820800000. Waiting 1.27s
+2025-08-23 00:22:59,269 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SOLUSDT&startTime=1755820800000. Waiting 1.18s
+2025-08-23 00:22:59,903 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=XRPUSDT&startTime=1755820800000. Waiting 1.89s
+2025-08-23 00:23:00,545 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=DOGEUSDT&startTime=1755820800000. Waiting 1.57s
+2025-08-23 00:23:22,098 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=XRPUSDT&startTime=1755820800000. Waiting 2.47s
+2025-08-23 00:23:24,069 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SOLUSDT&startTime=1755820800000. Waiting 2.45s
+2025-08-23 00:40:31,146 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SUSDT&startTime=1755820800000. Waiting 1.18s
+2025-08-23 00:57:15,301 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=XRPUSDT&startTime=1755820800000. Waiting 4.44s
+2025-08-23 00:57:19,888 - ERROR - Failed to fetch XRP/USDT [1d]: Failed after 3 retries
+2025-08-23 00:57:19,902 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SUSDT&startTime=1755820800000. Waiting 2.59s
+2025-08-23 00:59:31,304 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=PENDLEUSDT&startTime=1755820800000. Waiting 1.98s
+2025-08-23 00:59:38,064 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SOLUSDT&startTime=1755820800000. Waiting 4.64s
+2025-08-23 00:59:39,533 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SEIUSDT&startTime=1755820800000. Waiting 1.66s
+2025-08-23 00:59:39,652 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=APTUSDT&startTime=1755820800000. Waiting 1.62s
+2025-08-23 00:59:42,833 - ERROR - Failed to fetch SOL/USDT [1d]: Failed after 3 retries
+2025-08-23 01:23:58,637 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=MAVUSDT&startTime=1755820800000. Waiting 1.13s
+2025-08-23 01:24:10,571 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=FTTUSDT&startTime=1755820800000. Waiting 1.06s
+2025-08-23 01:24:10,890 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=RSRUSDT&startTime=1755820800000. Waiting 1.25s
+2025-08-23 01:24:11,032 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ZROUSDT&startTime=1755820800000. Waiting 1.13s
+2025-08-23 01:24:11,276 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ARUSDT&startTime=1755820800000. Waiting 1.13s
+2025-08-23 01:32:30,315 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=CTSIUSDT&startTime=1755820800000. Waiting 1.64s
+2025-08-23 01:32:33,526 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=KMNOUSDT&startTime=1755820800000. Waiting 1.34s
+2025-08-23 01:32:40,618 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=KMNOUSDT&startTime=1755820800000. Waiting 2.36s
+2025-08-23 01:32:40,619 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=CTSIUSDT&startTime=1755820800000. Waiting 2.73s
+2025-08-23 01:32:40,859 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SANDUSDT&startTime=1755820800000. Waiting 1.34s
+2025-08-23 01:32:42,285 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SANDUSDT&startTime=1755820800000. Waiting 2.76s
+2025-08-23 01:32:42,624 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ALTUSDT&startTime=1755820800000. Waiting 1.09s
+2025-08-23 01:32:42,925 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=XTZUSDT&startTime=1755820800000. Waiting 1.42s
+2025-08-23 01:32:43,093 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=KMNOUSDT&startTime=1755820800000. Waiting 4.72s
+2025-08-23 01:32:43,419 - WARNING - Retry 3 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=CTSIUSDT&startTime=1755820800000. Waiting 4.04s
+2025-08-23 01:32:43,787 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ALTUSDT&startTime=1755820800000. Waiting 2.05s
+2025-08-23 01:32:47,524 - ERROR - Failed to fetch CTSI/USDT [1d]: Failed after 3 retries
+2025-08-23 01:32:47,861 - ERROR - Failed to fetch KMNO/USDT [1d]: Failed after 3 retries
+2025-08-23 01:33:21,506 - INFO - Saved 409295 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-23 01:33:21,522 - INFO - Job completed in 48118.7s with 1587030 total rows
+2025-08-23 01:36:00,310 - INFO - Fetched 300 symbols (top 300)
+2025-08-23 01:36:24,950 - INFO - Saved 651610 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-23 01:36:47,294 - INFO - Saved 530565 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-23 01:37:09,541 - INFO - Saved 409295 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-23 01:37:09,546 - INFO - Job completed in 76.1s with 1591470 total rows
+2025-08-23 01:37:45,411 - INFO - Fetched 517 symbols (top all)
+2025-08-23 01:38:26,616 - INFO - Saved 652885 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-23 01:39:06,553 - INFO - Saved 530670 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-23 01:39:46,510 - INFO - Saved 409295 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-23 01:39:46,516 - INFO - Job completed in 127.4s with 1592850 total rows
+2025-08-23 02:05:12,172 - INFO - Fetched 517 symbols (top all)
+2025-08-23 02:06:18,393 - INFO - Saved 653290 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-23 02:07:17,000 - INFO - Saved 530670 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-23 02:08:13,571 - INFO - Saved 409295 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-23 02:08:13,588 - INFO - Job completed in 189.6s with 1593255 total rows
+2025-08-24 19:00:36,399 - ERROR - Failed to fetch symbols: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2025-08-25 00:05:10,744 - INFO - Fetched 517 symbols (top all)
+2025-08-25 00:36:45,395 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=MINAUSDT&startTime=1755903600000. Waiting 1.41s
+2025-08-25 00:36:45,408 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=XTZUSDT&startTime=1755903600000. Waiting 1.19s
+2025-08-25 00:36:47,244 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ANIMEUSDT&startTime=1755903600000. Waiting 1.02s
+2025-08-25 01:05:40,605 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ERAUSDT&startTime=1755903600000. Waiting 1.55s
+2025-08-25 01:05:43,814 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SYNUSDT&startTime=1755903600000. Waiting 1.20s
+2025-08-25 01:05:43,815 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FISUSDT&startTime=1755903600000. Waiting 1.15s
+2025-08-25 01:05:54,622 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ONGUSDT&startTime=1755903600000. Waiting 1.62s
+2025-08-25 01:05:54,627 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=COWUSDT&startTime=1755903600000. Waiting 1.32s
+2025-08-25 01:06:18,182 - INFO - Saved 672103 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-25 01:40:10,055 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=PROVEUSDT&startTime=1755892800000. Waiting 1.39s
+2025-08-25 02:06:43,557 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=CTKUSDT&startTime=1755892800000. Waiting 1.27s
+2025-08-25 02:06:43,700 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=JTOUSDT&startTime=1755892800000. Waiting 1.34s
+2025-08-25 02:06:43,720 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=IOUSDT&startTime=1755892800000. Waiting 1.31s
+2025-08-25 02:06:43,831 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=HOOKUSDT&startTime=1755892800000. Waiting 1.64s
+2025-08-25 02:06:54,636 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=USUALUSDT&startTime=1755892800000. Waiting 1.87s
+2025-08-25 02:07:20,767 - INFO - Saved 535530 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-25 02:17:49,353 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ASRUSDT&startTime=1755820800000. Waiting 1.24s
+2025-08-25 02:17:49,368 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=RENDERUSDT&startTime=1755820800000. Waiting 1.94s
+2025-08-25 02:17:49,370 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=AUCTIONUSDT&startTime=1755820800000. Waiting 1.52s
+2025-08-25 02:17:50,810 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ICPUSDT&startTime=1755820800000. Waiting 1.17s
+2025-08-25 02:17:50,961 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=CAKEUSDT&startTime=1755820800000. Waiting 1.78s
+2025-08-25 02:51:26,229 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=LOOMUSDT&startTime=1724630400000. Waiting 1.15s
+2025-08-25 02:51:26,396 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=XMRUSDT&startTime=1708387200000. Waiting 1.65s
+2025-08-25 03:07:49,172 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ATAUSDT&startTime=1755820800000. Waiting 1.10s
+2025-08-25 03:07:49,173 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=MCUSDT&startTime=1699315200000. Waiting 1.82s
+2025-08-25 03:07:49,174 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=VOXELUSDT&startTime=1755820800000. Waiting 1.38s
+2025-08-25 03:07:59,730 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=TRIBEUSDT&startTime=1669593600000. Waiting 1.08s
+2025-08-25 03:07:59,824 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=RENUSDT&startTime=1733788800000. Waiting 1.81s
+2025-08-25 03:08:02,867 - INFO - Saved 410127 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-25 03:08:02,882 - INFO - Job completed in 10979.2s with 1617760 total rows
+2025-08-25 22:05:10,944 - INFO - Fetched 517 symbols (top all)
+2025-08-25 22:05:53,116 - INFO - Saved 680830 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-25 22:06:34,666 - INFO - Saved 537555 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-25 22:07:15,422 - INFO - Saved 410510 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-25 22:07:15,436 - INFO - Job completed in 130.1s with 1628895 total rows
+2025-08-25 23:05:12,828 - INFO - Fetched 517 symbols (top all)
+2025-08-25 23:05:54,186 - INFO - Saved 681235 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-25 23:06:35,503 - INFO - Saved 537960 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-25 23:07:15,924 - INFO - Saved 410510 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-25 23:07:15,937 - INFO - Job completed in 130.5s with 1629705 total rows
+2025-08-26 23:05:15,259 - INFO - Fetched 517 symbols (top all)
+2025-08-26 23:05:58,434 - INFO - Saved 690955 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-26 23:06:42,123 - INFO - Saved 540390 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-26 23:07:25,351 - INFO - Saved 410915 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-26 23:07:25,366 - INFO - Job completed in 137.3s with 1642260 total rows
+2025-08-27 01:05:14,397 - INFO - Fetched 517 symbols (top all)
+2025-08-27 01:05:58,985 - INFO - Saved 691765 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-27 01:06:42,711 - INFO - Saved 540390 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-27 01:07:24,681 - INFO - Saved 410915 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-27 01:07:24,695 - INFO - Job completed in 138.2s with 1643070 total rows
+2025-08-27 04:05:14,328 - INFO - Fetched 517 symbols (top all)
+2025-08-27 04:05:55,770 - INFO - Saved 692980 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-27 04:06:37,205 - INFO - Saved 540795 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-27 04:07:18,038 - INFO - Saved 411320 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-27 04:07:18,053 - INFO - Job completed in 130.6s with 1645095 total rows
+2025-08-27 05:05:10,052 - INFO - Fetched 517 symbols (top all)
+2025-08-27 05:05:51,703 - INFO - Saved 693385 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-27 05:06:32,500 - INFO - Saved 540795 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-27 05:07:12,940 - INFO - Saved 411320 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-27 05:07:12,956 - INFO - Job completed in 129.6s with 1645500 total rows
+2025-08-27 06:56:18,061 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/ticker/24hr
+2025-08-27 22:13:59,201 - INFO - Fetched 518 symbols (top all)
+2025-08-27 22:19:38,920 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=QTUMUSDT&startTime=1756260000000. Waiting 1.32s
+2025-08-27 22:19:40,275 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=NEOUSDT&startTime=1756260000000. Waiting 1.29s
+2025-08-27 22:19:40,290 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FLOKIUSDT&startTime=1756260000000. Waiting 1.21s
+2025-08-27 22:19:40,396 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=TIAUSDT&startTime=1756260000000. Waiting 1.29s
+2025-08-27 22:19:40,701 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=VIRTUALUSDT&startTime=1756260000000. Waiting 1.45s
+2025-08-27 22:54:54,632 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=HIFIUSDT&startTime=1756260000000. Waiting 1.61s
+2025-08-27 22:54:54,633 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ANTUSDT&startTime=1708394400000. Waiting 1.13s
+2025-08-27 23:20:24,174 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ATAUSDT&startTime=1756260000000. Waiting 1.31s
+2025-08-27 23:20:24,188 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=AWEUSDT&startTime=1756260000000. Waiting 1.76s
+2025-08-27 23:20:24,293 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BSWUSDT&startTime=1751594400000. Waiting 1.01s
+2025-08-27 23:20:34,858 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=VICUSDT&startTime=1756260000000. Waiting 1.61s
+2025-08-27 23:20:34,961 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=WTCUSDT&startTime=1701914400000. Waiting 1.88s
+2025-08-27 23:20:39,480 - INFO - Saved 700315 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-27 23:54:46,557 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ACMUSDT&startTime=1756252800000. Waiting 1.20s
+2025-08-27 23:54:46,842 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=VELODROMEUSDT&startTime=1756252800000. Waiting 1.09s
+2025-08-28 00:21:23,694 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=LUMIAUSDT&startTime=1756252800000. Waiting 1.52s
+2025-08-28 00:21:24,044 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BELUSDT&startTime=1756252800000. Waiting 1.31s
+2025-08-28 00:21:24,145 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=AGIXUSDT&startTime=1719792000000. Waiting 1.62s
+2025-08-28 00:21:34,698 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=GLMUSDT&startTime=1756252800000. Waiting 1.96s
+2025-08-28 00:21:34,807 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BAKEUSDT&startTime=1756252800000. Waiting 1.31s
+2025-08-28 00:21:43,616 - INFO - Saved 542822 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-28 01:10:47,050 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=SXTUSDT&startTime=1756252800000. Waiting 1.66s
+2025-08-28 01:10:47,198 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=COWUSDT&startTime=1756252800000. Waiting 1.23s
+2025-08-28 01:10:47,277 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=NILUSDT&startTime=1756252800000. Waiting 1.30s
+2025-08-28 01:10:47,277 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=GMXUSDT&startTime=1756252800000. Waiting 1.70s
+2025-08-28 01:10:47,311 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=COSUSDT&startTime=1756252800000. Waiting 1.16s
+2025-08-28 01:11:08,653 - INFO - Saved 411321 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-28 01:11:08,671 - INFO - Job completed in 10636.5s with 1654458 total rows
+2025-08-28 19:05:14,661 - INFO - Fetched 518 symbols (top all)
+2025-08-28 19:05:53,260 - INFO - Saved 708800 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-28 19:06:32,481 - INFO - Saved 544852 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-28 19:07:08,969 - INFO - Saved 411727 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-28 19:07:08,982 - INFO - Job completed in 121.2s with 1665379 total rows
+2025-08-29 21:05:13,686 - INFO - Fetched 519 symbols (top all)
+2025-08-29 21:05:58,091 - INFO - Saved 719360 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-29 21:06:42,145 - INFO - Saved 547290 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-29 21:07:25,236 - INFO - Saved 412134 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-29 21:07:25,252 - INFO - Job completed in 137.3s with 1678784 total rows
+2025-08-29 22:05:14,137 - INFO - Fetched 519 symbols (top all)
+2025-08-29 22:05:51,474 - INFO - Saved 719767 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-29 22:06:28,475 - INFO - Saved 547290 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-29 22:07:05,092 - INFO - Saved 412134 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-29 22:07:05,106 - INFO - Job completed in 118.2s with 1679191 total rows
+2025-08-29 23:05:11,574 - INFO - Fetched 519 symbols (top all)
+2025-08-29 23:05:54,751 - INFO - Saved 720174 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-29 23:06:37,657 - INFO - Saved 547697 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-29 23:07:23,962 - INFO - Saved 412134 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-29 23:07:23,975 - INFO - Job completed in 139.9s with 1680005 total rows
+2025-08-30 00:05:22,320 - INFO - Fetched 519 symbols (top all)
+2025-08-30 00:05:59,998 - INFO - Saved 720581 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-30 00:06:36,757 - INFO - Saved 547697 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-30 00:07:14,011 - INFO - Saved 412134 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-30 00:07:14,043 - INFO - Job completed in 118.9s with 1680412 total rows
+2025-08-30 01:05:24,310 - INFO - Fetched 519 symbols (top all)
+2025-08-30 01:06:01,602 - INFO - Saved 720988 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-30 01:07:01,692 - INFO - Saved 547697 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-30 01:07:38,058 - INFO - Saved 412134 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-30 01:07:38,078 - INFO - Job completed in 140.7s with 1680819 total rows
+2025-08-30 02:05:14,048 - INFO - Fetched 519 symbols (top all)
+2025-08-30 02:05:50,936 - INFO - Saved 721395 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-30 02:06:26,988 - INFO - Saved 547697 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-30 02:07:02,488 - INFO - Saved 412134 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-30 02:07:02,501 - INFO - Job completed in 115.3s with 1681226 total rows
+2025-08-30 20:05:15,962 - INFO - Fetched 519 symbols (top all)
+2025-08-30 20:06:01,888 - INFO - Saved 728721 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-08-30 20:06:45,214 - INFO - Saved 549732 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-08-30 20:07:29,195 - INFO - Saved 412541 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-08-30 20:07:29,209 - INFO - Job completed in 140.6s with 1690994 total rows
+2025-08-30 22:21:07,582 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-01 20:08:24,856 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-02 02:05:20,852 - INFO - Fetched 520 symbols (top all)
+2025-09-02 02:06:15,170 - INFO - Saved 751118 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-02 02:07:04,445 - INFO - Saved 555434 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-02 02:07:48,984 - INFO - Saved 413764 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-02 02:07:48,999 - INFO - Job completed in 159.8s with 1720316 total rows
+2025-09-02 08:06:14,488 - INFO - Fetched 520 symbols (top all)
+2025-09-02 08:07:42,824 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=QTUMUSDT&startTime=1756771200000. Waiting 1.68s
+2025-09-02 08:07:42,894 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=RENDERUSDT&startTime=1756771200000. Waiting 1.94s
+2025-09-02 08:07:42,907 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ARKMUSDT&startTime=1756771200000. Waiting 1.56s
+2025-09-02 08:07:43,047 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=OGUSDT&startTime=1756771200000. Waiting 1.88s
+2025-09-02 08:12:21,202 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ALCXUSDT&startTime=1756771200000. Waiting 1.49s
+2025-09-02 08:12:21,225 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=TUSDT&startTime=1756771200000. Waiting 1.32s
+2025-09-02 08:12:21,226 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ARPAUSDT&startTime=1756771200000. Waiting 1.65s
+2025-09-02 08:12:21,226 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=TUSDUSDT&startTime=1756771200000. Waiting 1.28s
+2025-09-02 08:12:21,226 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=DODOUSDT&startTime=1756771200000. Waiting 1.42s
+2025-09-02 08:12:47,842 - INFO - Saved 753566 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-02 08:13:38,241 - INFO - Saved 555842 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-02 08:14:22,178 - INFO - Saved 413764 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-02 08:14:22,195 - INFO - Job completed in 496.9s with 1723172 total rows
+2025-09-03 08:05:16,031 - INFO - Fetched 521 symbols (top all)
+2025-09-03 08:06:04,906 - INFO - Saved 763784 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-03 08:06:46,610 - INFO - Saved 558295 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-03 08:07:26,793 - INFO - Saved 414174 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-03 08:07:26,806 - INFO - Job completed in 140.8s with 1736253 total rows
+2025-09-05 01:05:05,377 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-05 20:05:15,231 - INFO - Fetched 521 symbols (top all)
+2025-09-05 20:06:01,129 - INFO - Saved 787915 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-05 20:06:44,139 - INFO - Saved 564430 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-05 20:07:32,095 - INFO - Saved 414992 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-05 20:07:32,106 - INFO - Job completed in 146.3s with 1767337 total rows
+2025-09-05 21:05:13,770 - INFO - Fetched 521 symbols (top all)
+2025-09-05 21:06:03,287 - INFO - Saved 788324 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-05 21:06:52,761 - INFO - Saved 564430 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-05 21:07:38,972 - INFO - Saved 414992 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-05 21:07:38,985 - INFO - Job completed in 152.8s with 1767746 total rows
+2025-09-05 22:05:11,698 - INFO - Fetched 521 symbols (top all)
+2025-09-05 22:06:00,911 - INFO - Saved 788733 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-05 22:06:50,100 - INFO - Saved 564839 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-05 22:07:39,510 - INFO - Saved 414992 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-05 22:07:39,538 - INFO - Job completed in 155.5s with 1768564 total rows
+2025-09-06 00:05:05,384 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-06 01:11:28,734 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-06 12:06:36,608 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-06 13:07:39,050 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-06 14:05:24,656 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-06 16:05:11,143 - INFO - Fetched 521 symbols (top all)
+2025-09-06 16:05:55,178 - INFO - Saved 796095 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-06 16:06:37,737 - INFO - Saved 566475 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-06 16:07:18,729 - INFO - Saved 415401 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-06 16:07:18,744 - INFO - Job completed in 135.1s with 1777971 total rows
+2025-09-06 18:05:14,219 - INFO - Fetched 521 symbols (top all)
+2025-09-06 18:06:04,498 - INFO - Saved 796913 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-06 18:06:53,964 - INFO - Saved 566884 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-06 18:07:42,134 - INFO - Saved 415401 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-06 18:07:42,151 - INFO - Job completed in 157.0s with 1779198 total rows
+2025-09-07 12:06:17,868 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-07 23:05:13,473 - INFO - Fetched 521 symbols (top all)
+2025-09-07 23:05:54,835 - INFO - Saved 808774 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-07 23:06:38,114 - INFO - Saved 569747 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-07 23:07:20,368 - INFO - Saved 415810 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-07 23:07:20,380 - INFO - Job completed in 135.0s with 1794331 total rows
+2025-09-08 00:05:13,279 - INFO - Fetched 521 symbols (top all)
+2025-09-08 00:06:00,043 - INFO - Saved 809183 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-08 00:06:43,835 - INFO - Saved 569747 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-08 00:07:24,193 - INFO - Saved 415810 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-08 00:07:24,212 - INFO - Job completed in 140.8s with 1794740 total rows
+2025-09-08 01:05:12,066 - INFO - Fetched 521 symbols (top all)
+2025-09-08 01:05:53,016 - INFO - Saved 809592 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-08 01:06:34,301 - INFO - Saved 569747 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-08 01:07:14,380 - INFO - Saved 415810 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-08 01:07:14,396 - INFO - Job completed in 130.8s with 1795149 total rows
+2025-09-08 02:05:12,124 - INFO - Fetched 521 symbols (top all)
+2025-09-08 02:05:55,765 - INFO - Saved 810001 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-08 02:06:38,834 - INFO - Saved 570156 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-08 02:07:21,316 - INFO - Saved 416219 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-08 02:07:21,329 - INFO - Job completed in 137.2s with 1796376 total rows
+2025-09-08 03:05:10,579 - INFO - Fetched 521 symbols (top all)
+2025-09-08 03:06:06,439 - INFO - Saved 810410 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-08 03:07:05,882 - INFO - Saved 570156 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-08 03:08:00,300 - INFO - Saved 416219 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-08 03:08:00,313 - INFO - Job completed in 177.3s with 1796785 total rows
+2025-09-08 23:05:15,711 - INFO - Fetched 522 symbols (top all)
+2025-09-08 23:06:01,094 - INFO - Saved 818599 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-08 23:06:46,805 - INFO - Saved 572204 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-08 23:07:32,315 - INFO - Saved 416220 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-08 23:07:32,330 - INFO - Job completed in 146.9s with 1807023 total rows
+2025-09-09 00:57:30,123 - INFO - Fetched 522 symbols (top all)
+2025-09-09 00:58:09,109 - INFO - Saved 819009 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-09 00:58:47,280 - INFO - Saved 572204 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-09 00:59:24,592 - INFO - Saved 416220 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-09 00:59:24,599 - INFO - Job completed in 120.4s with 1807433 total rows
+2025-09-09 01:05:10,408 - INFO - Fetched 522 symbols (top all)
+2025-09-09 01:05:54,745 - INFO - Saved 819419 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-09 01:06:38,296 - INFO - Saved 572204 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-09 01:07:20,035 - INFO - Saved 416220 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-09 01:07:20,050 - INFO - Job completed in 136.7s with 1807843 total rows
+2025-09-09 02:05:10,980 - INFO - Fetched 522 symbols (top all)
+2025-09-09 02:06:07,025 - INFO - Saved 819829 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-09 02:06:52,361 - INFO - Saved 572614 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-09 02:07:36,305 - INFO - Saved 416630 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-09 02:07:36,315 - INFO - Job completed in 152.6s with 1809073 total rows
+2025-09-09 21:05:12,342 - INFO - Fetched 523 symbols (top all)
+2025-09-09 21:05:57,326 - INFO - Saved 827627 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-09 21:06:43,808 - INFO - Saved 574256 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-09 21:07:28,209 - INFO - Saved 416631 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-09 21:07:28,225 - INFO - Job completed in 143.6s with 1818514 total rows
+2025-09-09 22:05:14,037 - INFO - Fetched 523 symbols (top all)
+2025-09-09 22:05:59,127 - INFO - Saved 828038 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-09 22:06:43,975 - INFO - Saved 574667 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-09 22:07:27,907 - INFO - Saved 416631 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-09 22:07:27,920 - INFO - Job completed in 143.7s with 1819336 total rows
+2025-09-09 23:05:10,104 - INFO - Fetched 523 symbols (top all)
+2025-09-09 23:05:56,081 - INFO - Saved 828449 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-09 23:06:46,364 - INFO - Saved 574667 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-09 23:07:30,062 - INFO - Saved 416631 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-09 23:07:30,086 - INFO - Job completed in 146.6s with 1819747 total rows
+2025-09-10 00:05:11,075 - INFO - Fetched 523 symbols (top all)
+2025-09-10 00:05:54,202 - INFO - Saved 828860 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-10 00:06:37,949 - INFO - Saved 574667 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-10 00:07:19,747 - INFO - Saved 416631 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-10 00:07:19,772 - INFO - Job completed in 136.1s with 1820158 total rows
+2025-09-10 01:05:10,813 - INFO - Fetched 523 symbols (top all)
+2025-09-10 01:05:53,498 - INFO - Saved 829271 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-10 01:06:35,346 - INFO - Saved 574667 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-10 01:07:16,789 - INFO - Saved 416631 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-10 01:07:16,804 - INFO - Job completed in 133.6s with 1820569 total rows
+2025-09-10 02:05:11,721 - INFO - Fetched 523 symbols (top all)
+2025-09-10 02:05:55,563 - INFO - Saved 829682 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-10 02:06:37,157 - INFO - Saved 575078 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-10 02:07:18,216 - INFO - Saved 417042 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-10 02:07:18,231 - INFO - Job completed in 133.8s with 1821802 total rows
+2025-09-10 03:05:11,664 - INFO - Fetched 523 symbols (top all)
+2025-09-10 03:06:03,434 - INFO - Saved 830093 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-10 03:06:52,183 - INFO - Saved 575078 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-10 03:07:42,836 - INFO - Saved 417042 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-10 03:07:42,847 - INFO - Job completed in 159.5s with 1822213 total rows
+2025-09-10 07:05:04,483 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-10 08:05:03,369 - ERROR - Failed to fetch symbols: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-09-12 20:05:15,191 - INFO - Fetched 526 symbols (top all)
+2025-09-12 20:06:12,718 - INFO - Saved 856921 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-12 20:07:00,328 - INFO - Saved 581683 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-12 20:07:52,175 - INFO - Saved 417871 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-12 20:07:52,193 - INFO - Job completed in 166.1s with 1856475 total rows
+2025-09-12 22:05:14,894 - INFO - Fetched 526 symbols (top all)
+2025-09-12 22:05:59,079 - INFO - Saved 857749 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-12 22:06:41,290 - INFO - Saved 582097 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-12 22:07:24,154 - INFO - Saved 417871 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-12 22:07:24,168 - INFO - Job completed in 136.5s with 1857717 total rows
+2025-09-12 23:05:11,699 - INFO - Fetched 526 symbols (top all)
+2025-09-12 23:05:55,401 - INFO - Saved 858163 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-12 23:06:39,921 - INFO - Saved 582097 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-12 23:07:27,646 - INFO - Saved 417871 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-12 23:07:27,660 - INFO - Job completed in 143.8s with 1858131 total rows
+2025-09-13 00:05:12,282 - INFO - Fetched 526 symbols (top all)
+2025-09-13 00:05:44,034 - INFO - Fetched 526 symbols (top all)
+2025-09-13 00:05:56,419 - INFO - Saved 858577 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 00:06:24,471 - INFO - Saved 858577 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 00:06:41,074 - INFO - Saved 582097 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 00:07:04,987 - INFO - Saved 582097 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 00:07:22,897 - INFO - Saved 417871 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 00:07:22,918 - INFO - Job completed in 139.1s with 1858545 total rows
+2025-09-13 00:07:46,686 - INFO - Saved 417871 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 00:07:46,691 - INFO - Job completed in 129.0s with 1858545 total rows
+2025-09-13 00:29:08,476 - INFO - Fetched 526 symbols (top all)
+2025-09-13 00:29:51,357 - INFO - Saved 858577 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 00:30:41,416 - INFO - Saved 582097 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 00:31:35,132 - INFO - Saved 417871 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 00:31:35,138 - INFO - Job completed in 153.6s with 1858545 total rows
+2025-09-13 01:05:11,366 - INFO - Fetched 526 symbols (top all)
+2025-09-13 01:05:54,447 - INFO - Saved 858991 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 01:06:35,798 - INFO - Saved 582097 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 01:07:18,466 - INFO - Saved 417871 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 01:07:18,479 - INFO - Job completed in 134.5s with 1858959 total rows
+2025-09-13 11:05:13,792 - INFO - Fetched 526 symbols (top all)
+2025-09-13 11:05:58,743 - INFO - Saved 863131 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 11:06:44,835 - INFO - Saved 583339 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 11:07:28,884 - INFO - Saved 418285 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 11:07:28,899 - INFO - Job completed in 142.7s with 1864755 total rows
+2025-09-13 11:22:59,933 - INFO - Fetched 526 symbols (top all)
+2025-09-13 11:23:40,599 - INFO - Saved 863131 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 11:24:21,839 - INFO - Saved 583339 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 11:25:01,785 - INFO - Saved 418285 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 11:25:01,790 - INFO - Job completed in 127.5s with 1864755 total rows
+2025-09-13 12:05:11,898 - INFO - Fetched 526 symbols (top all)
+2025-09-13 12:05:53,841 - INFO - Saved 863545 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 12:06:36,770 - INFO - Saved 583339 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 12:07:16,108 - INFO - Saved 418285 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 12:07:16,125 - INFO - Job completed in 131.6s with 1865169 total rows
+2025-09-13 12:42:18,288 - INFO - Fetched 526 symbols (top all)
+2025-09-13 12:42:56,340 - INFO - Saved 863545 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 12:43:33,425 - INFO - Saved 583339 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 12:44:10,801 - INFO - Saved 418285 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 12:44:10,807 - INFO - Job completed in 119.6s with 1865169 total rows
+2025-09-13 12:44:38,154 - INFO - Fetched 526 symbols (top all)
+2025-09-13 12:44:38,303 - WARNING - Error reading existing file ohlcv_parquet/ohlcv_1h.parquet: No match for FieldRef.Name(ts) in open: double
+high: double
+low: double
+close: double
+volume: double
+timestamp: timestamp[ns]
+symbol: string
+__fragment_index: int32
+__batch_index: int32
+__last_in_fragment: bool
+__filename: string
+2025-09-13 12:45:58,281 - INFO - Saved 518431 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 12:45:58,296 - WARNING - Error reading existing file ohlcv_parquet/ohlcv_4h.parquet: No match for FieldRef.Name(ts) in open: double
+high: double
+low: double
+close: double
+volume: double
+timestamp: timestamp[ns]
+symbol: string
+__fragment_index: int32
+__batch_index: int32
+__last_in_fragment: bool
+__filename: string
+2025-09-13 12:47:14,393 - INFO - Saved 505192 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 12:47:14,409 - WARNING - Error reading existing file ohlcv_parquet/ohlcv_1d.parquet: No match for FieldRef.Name(ts) in open: double
+high: double
+low: double
+close: double
+volume: double
+timestamp: timestamp[ns]
+symbol: string
+__fragment_index: int32
+__batch_index: int32
+__last_in_fragment: bool
+__filename: string
+2025-09-13 12:48:18,414 - INFO - Saved 410187 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 12:48:18,425 - INFO - Job completed in 225.9s with 1433810 total rows
+2025-09-13 12:49:47,233 - INFO - Fetched 526 symbols (top all)
+2025-09-13 12:50:26,695 - INFO - Saved 518431 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 12:51:03,169 - INFO - Saved 505192 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 12:51:39,495 - INFO - Saved 410187 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 12:51:39,503 - INFO - Job completed in 117.9s with 1433810 total rows
+2025-09-13 12:55:37,652 - INFO - Fetched 526 symbols (top all)
+2025-09-13 12:56:58,591 - INFO - Saved 864071 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 12:58:14,947 - INFO - Saved 583865 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 12:59:17,642 - INFO - Saved 418811 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 12:59:17,656 - INFO - Job completed in 227.0s with 1866747 total rows
+2025-09-13 13:05:10,413 - INFO - Fetched 526 symbols (top all)
+2025-09-13 13:05:52,883 - INFO - Saved 864485 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 13:06:18,779 - INFO - Fetched 526 symbols (top all)
+2025-09-13 13:06:33,075 - INFO - Saved 583865 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 13:07:12,732 - INFO - Saved 418811 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 13:07:12,751 - INFO - Job completed in 128.4s with 1867161 total rows
+2025-09-13 13:07:40,185 - INFO - Saved 518845 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 13:08:57,556 - INFO - Saved 505192 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 13:10:03,113 - INFO - Saved 410187 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 13:10:03,126 - INFO - Job completed in 229.5s with 1434224 total rows
+2025-09-13 13:42:44,349 - INFO - Fetched 526 symbols (top all)
+2025-09-13 13:44:06,793 - INFO - Saved 517917 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 13:45:24,629 - INFO - Saved 504665 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 13:46:30,157 - INFO - Saved 409660 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 13:46:30,170 - INFO - Job completed in 233.9s with 1432242 total rows
+2025-09-13 13:49:23,097 - INFO - Fetched 526 symbols (top all)
+2025-09-13 13:50:43,976 - INFO - Saved 517917 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 13:52:01,215 - INFO - Saved 504665 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 13:53:07,088 - INFO - Saved 409660 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 13:53:07,101 - INFO - Job completed in 229.7s with 1432242 total rows
+2025-09-13 14:05:14,613 - INFO - Fetched 526 symbols (top all)
+2025-09-13 14:05:56,206 - INFO - Saved 518331 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 14:06:36,893 - INFO - Saved 505079 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 14:07:18,373 - INFO - Saved 409660 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 14:07:18,399 - INFO - Job completed in 133.0s with 1433070 total rows
+2025-09-13 14:27:06,744 - INFO - Fetched 526 symbols (top all)
+2025-09-13 14:28:27,337 - INFO - Saved 517930 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-13 14:29:45,488 - INFO - Saved 504708 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-13 14:30:55,690 - INFO - Saved 409660 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-13 14:30:55,705 - INFO - Job completed in 235.9s with 1432298 total rows
+2025-09-15 19:51:38,381 - INFO - Fetched 528 symbols (top all)
+2025-09-15 19:52:18,342 - INFO - Saved 539874 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-15 19:52:59,256 - INFO - Saved 510092 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-15 19:53:43,018 - INFO - Saved 410490 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-15 19:53:43,031 - INFO - Job completed in 131.5s with 1460456 total rows
+2025-09-15 19:59:07,214 - INFO - Fetched 528 symbols (top all)
+2025-09-15 19:59:45,019 - INFO - Saved 539874 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-15 20:00:30,254 - INFO - Saved 510092 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-15 20:01:12,958 - INFO - Saved 410490 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-15 20:01:12,966 - INFO - Job completed in 133.0s with 1460456 total rows
+2025-09-15 20:04:56,102 - INFO - Fetched 528 symbols (top all)
+2025-09-15 20:06:25,062 - INFO - Saved 518651 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-15 20:07:47,996 - INFO - Saved 505263 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-15 20:09:00,115 - INFO - Saved 410008 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-15 20:09:00,127 - INFO - Job completed in 250.1s with 1433922 total rows
+2025-09-15 20:20:56,851 - INFO - Fetched 528 symbols (top all)
+2025-09-15 20:22:23,808 - INFO - Saved 518651 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-15 20:23:45,737 - INFO - Saved 505263 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-15 20:24:55,123 - INFO - Saved 410008 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-15 20:24:55,142 - INFO - Job completed in 244.6s with 1433922 total rows
+2025-09-15 20:25:19,591 - INFO - Fetched 528 symbols (top all)
+2025-09-15 20:26:51,026 - INFO - Saved 518651 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-15 20:28:15,350 - INFO - Saved 505263 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-15 20:29:26,390 - INFO - Saved 410008 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-15 20:29:26,402 - INFO - Job completed in 254.4s with 1433922 total rows
+2025-09-15 20:33:45,353 - INFO - Fetched 528 symbols (top all)
+2025-09-15 20:35:14,103 - INFO - Saved 518651 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-15 20:36:38,842 - INFO - Saved 505263 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-15 20:37:50,610 - INFO - Saved 410008 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-15 20:37:50,623 - INFO - Job completed in 251.6s with 1433922 total rows
+2025-09-15 20:51:29,725 - INFO - Fetched 528 symbols (top all)
+2025-09-15 20:52:34,357 - INFO - Saved 518651 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-15 20:53:18,976 - INFO - Saved 505263 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-15 20:53:58,310 - INFO - Saved 410008 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-15 20:53:58,320 - INFO - Job completed in 154.2s with 1433922 total rows
+2025-09-15 23:32:08,145 - INFO - Fetched 528 symbols (top all)
+2025-09-15 23:33:36,838 - INFO - Saved 518696 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-15 23:34:59,033 - INFO - Saved 505307 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-15 23:36:12,728 - INFO - Saved 410008 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-15 23:36:12,741 - INFO - Job completed in 250.3s with 1434011 total rows
+2025-09-16 00:27:32,507 - INFO - Fetched 528 symbols (top all)
+2025-09-16 00:28:57,784 - INFO - Saved 518711 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-16 00:30:18,063 - INFO - Saved 505307 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-16 00:31:26,515 - INFO - Saved 410008 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-16 00:31:26,526 - INFO - Job completed in 240.9s with 1434026 total rows
+2025-09-16 00:31:37,438 - INFO - Found 420 active USDT spot symbols
+2025-09-16 00:31:39,122 - INFO - Fetched 415 spot USDT symbols (top all)
+2025-09-16 00:32:45,302 - INFO - Saved 405711 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-16 00:33:54,406 - INFO - Saved 392307 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-16 00:34:46,510 - INFO - Saved 309946 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-16 00:34:46,522 - INFO - Job completed in 194.9s with 1107964 total rows
+2025-09-16 00:42:02,407 - INFO - Found 420 active USDT spot symbols
+2025-09-16 00:42:05,128 - INFO - Fetched 415 spot USDT symbols (top all)
+2025-09-16 00:43:11,945 - INFO - Saved 405711 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-16 00:44:19,768 - INFO - Saved 392307 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-16 00:45:14,880 - INFO - Saved 309946 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-16 00:45:14,891 - INFO - Job completed in 198.0s with 1107964 total rows
+2025-09-17 20:43:12,988 - INFO - Found 418 active USDT spot symbols
+2025-09-17 20:43:14,175 - INFO - Fetched 413 spot USDT symbols (top all)
+2025-09-17 20:45:58,183 - INFO - Saved 403297 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-17 20:49:01,289 - INFO - Saved 389794 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-17 20:51:43,279 - INFO - Saved 307933 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-17 20:51:43,297 - INFO - Job completed in 521.4s with 1101024 total rows
+2025-09-18 12:07:47,226 - INFO - Found 418 active USDT spot symbols
+2025-09-18 12:07:49,029 - INFO - Fetched 413 spot USDT symbols (top all)
+2025-09-18 12:08:23,698 - INFO - Saved 409905 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-18 12:08:57,849 - INFO - Saved 391446 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-18 12:09:33,358 - INFO - Saved 308346 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-18 12:09:33,366 - INFO - Job completed in 111.7s with 1109697 total rows
+2025-09-19 20:11:00,078 - INFO - Found 419 active USDT spot symbols
+2025-09-19 20:11:30,714 - INFO - Fetched 414 spot USDT symbols (top all)
+2025-09-19 20:11:52,285 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ETHUSDT&startTime=1758186000000. Waiting 1.19s
+2025-09-19 20:11:52,286 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=DOGEUSDT&startTime=1758186000000. Waiting 1.57s
+2025-09-19 20:11:52,286 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BTCUSDT&startTime=1758186000000. Waiting 1.19s
+2025-09-19 20:11:52,291 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=SOLUSDT&startTime=1758186000000. Waiting 1.48s
+2025-09-19 20:11:54,658 - WARNING - Retry 1 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FDUSDUSDT&startTime=1758186000000. Waiting 1.17s
+2025-09-19 20:12:20,654 - WARNING - Retry 2 failed: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=FDUSDUSDT&startTime=1758186000000. Waiting 2.16s
+2025-09-19 20:12:54,769 - INFO - Saved 423152 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-19 20:13:38,043 - INFO - Saved 394759 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-19 20:14:23,087 - INFO - Saved 308761 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-19 20:14:23,095 - INFO - Job completed in 214.4s with 1126672 total rows
+2025-09-20 06:22:51,807 - INFO - Found 419 active USDT spot symbols
+2025-09-20 06:22:54,991 - INFO - Fetched 414 spot USDT symbols (top all)
+2025-09-20 06:23:24,674 - INFO - Saved 427292 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-20 06:23:54,051 - INFO - Saved 395587 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-20 06:24:23,285 - INFO - Saved 309175 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-20 06:24:23,293 - INFO - Job completed in 95.1s with 1132054 total rows
+2025-09-20 15:26:34,576 - INFO - Found 419 active USDT spot symbols
+2025-09-20 15:26:37,074 - INFO - Fetched 414 spot USDT symbols (top all)
+2025-09-20 15:27:08,327 - INFO - Saved 431018 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-20 15:27:39,319 - INFO - Saved 396829 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-20 15:28:10,049 - INFO - Saved 309175 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-20 15:28:10,058 - INFO - Job completed in 99.5s with 1137022 total rows
+2025-09-21 14:31:53,904 - INFO - Found 419 active USDT spot symbols
+2025-09-21 14:31:55,932 - INFO - Fetched 414 spot USDT symbols (top all)
+2025-09-21 14:32:26,925 - INFO - Saved 440540 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-21 14:32:55,840 - INFO - Saved 398899 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-21 14:33:25,707 - INFO - Saved 309589 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-21 14:33:25,714 - INFO - Job completed in 96.1s with 1149028 total rows
+2025-09-21 20:04:55,465 - INFO - Backfill job completed in 7.2s with 1618 total rows
+2025-09-21 20:05:09,491 - INFO - Found 419 active USDT spot symbols
+2025-09-21 20:05:12,007 - INFO - Fetched 5 spot USDT symbols (top 5)
+2025-09-21 20:05:12,912 - INFO - Saved 442186 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-21 20:05:12,917 - INFO - Job completed in 7.2s with 442186 total rows
+2025-09-21 22:06:44,858 - INFO - Backfill job completed in 52.4s with 6482 total rows
+2025-09-21 23:36:52,211 - INFO - Backfill job completed in 6.5s with 2 total rows
+2025-09-21 23:37:27,071 - INFO - Backfill job completed in 9.8s with 3253 total rows
+2025-09-21 23:43:08,546 - INFO - Backfill job completed in 5.6s with 372 total rows
+2025-09-22 05:23:25,460 - INFO - Backfill job completed in 5.1s with 1 total rows
+2025-09-22 17:13:45,648 - INFO - Found 420 active USDT spot symbols
+2025-09-22 17:13:47,252 - INFO - Fetched 415 spot USDT symbols (top all)
+2025-09-22 17:14:14,928 - INFO - Saved 462653 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-22 17:14:40,897 - INFO - Saved 402544 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-22 17:15:10,167 - INFO - Saved 310004 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-22 17:15:10,180 - INFO - Job completed in 88.9s with 1175201 total rows
+2025-09-23 11:39:23,460 - INFO - Found 420 active USDT spot symbols
+2025-09-23 11:39:26,077 - INFO - Fetched 415 spot USDT symbols (top all)
+2025-09-23 11:39:57,523 - INFO - Saved 470123 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-23 11:40:26,248 - INFO - Saved 404619 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-23 11:40:53,457 - INFO - Saved 310419 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-23 11:40:53,471 - INFO - Job completed in 93.8s with 1185161 total rows
+2025-09-24 00:43:21,523 - INFO - Found 421 active USDT spot symbols
+2025-09-24 00:43:23,210 - INFO - Fetched 416 spot USDT symbols (top all)
+2025-09-24 00:43:50,606 - INFO - Saved 475528 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-24 00:44:18,221 - INFO - Saved 405867 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-24 00:44:44,878 - INFO - Saved 310420 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-24 00:44:44,889 - INFO - Job completed in 87.2s with 1191815 total rows
+2025-09-24 11:55:39,259 - INFO - Found 421 active USDT spot symbols
+2025-09-24 11:55:40,680 - INFO - Fetched 416 spot USDT symbols (top all)
+2025-09-24 11:56:12,336 - INFO - Saved 488981 rows to ohlcv_parquet/ohlcv_1h.parquet
+2025-09-24 11:56:40,922 - INFO - Saved 409144 rows to ohlcv_parquet/ohlcv_4h.parquet
+2025-09-24 11:57:13,476 - INFO - Saved 310402 rows to ohlcv_parquet/ohlcv_1d.parquet
+2025-09-24 11:57:13,492 - INFO - Job completed in 100.2s with 1208527 total rows

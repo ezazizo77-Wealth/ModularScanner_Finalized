@@ -1,0 +1,81 @@
+# coil_spring.yaml (v2) - MVP filter pipeline
+# Created: 2025-09-20
+# Last Edited: 2025-09-20
+#
+# Purpose:
+# Modular pipeline for coil detection with multi-timeframe confirmation.
+# Stages are explicit and switchable for testing and optimization.
+#
+# Pipeline Stages:
+# 1. coil_1h: Detect tight coil formation on 1h timeframe
+# 2. match_4h: Confirm with 4h timeframe (either coiled or turning up)
+# 3. confirm_1d: Final confirmation with daily trend bias
+
+control:
+  enabled_stages: ["coil_1h", "match_4h", "confirm_1d"]  # turn any off for testing
+  benchmark: false  # Set to true to disable all filters
+
+universe:
+  regex: ".*"
+  exclude_symbols:
+    - EUR/USDT
+    - EURI/USDT
+    - FDUSD/USDT
+    - USD1/USDT
+    - USDC/USDT
+    - BUSD/USDT
+    - TUSD/USDT
+    - DAI/USDT
+
+# Global feature definitions (used across all timeframes)
+features:
+  ema_fast: 21
+  ema_mid_fast: 40
+  sma_mid_slow: 50
+  sma_slow: 150
+  atr_window: 14
+  slope_window: 100
+
+# Stage 1: 1h Coil Detection
+coil_1h:
+  price_col: close
+  
+  # Coil tightness criteria
+  max_fast3_width_pct: 3.0      # EMA21–EMA40–SMA50 tightness on 1h
+  min_bars_in_coil: 10          # consecutive bars meeting width cap
+  max_tr_range_atr: 1.2         # volatility guard (true-range/ATR)
+  
+  # Optional: require upward micro-bias
+  min_ma21_slope_pct: -0.10     # e.g., allow slightly flat/down (−0.10%)
+
+# Stage 2: 4h Matching (either coiled or turning up)
+match_4h:
+  mode: "either"                # "either" = match any of the conditions below
+  
+  # Option A: also coiled on 4h
+  max_fast3_width_pct: 8.0
+  min_bars_in_coil: 4
+  
+  # Option B: alignment/turn-up on 4h
+  min_ma21_slope_pct: 0.0
+  min_ma50_slope_pct: 0.0
+
+# Stage 3: Daily Confirmation
+confirm_1d:
+  # daily long-bias: flat-or-up baseline
+  min_sma150_slope_pct: 0.0     # 0% = flat or better
+  
+  # optional tolerance (e.g., allow −0.15% if you want looser confirm)
+  tolerance_pct: 0.0
+
+# Output configuration
+outputs:
+  save_watchlists: true
+  out_dir: "out"
+  rules: ["1h:coil_pass", "4h:match_pass", "1d:confirm_pass"]
+
+# Metric Definitions (for reference):
+# fast3_width_pct = 100 * (max(EMA21, EMA40, SMA50) - min(EMA21, EMA40, SMA50)) / SMA150
+# bars_in_coil = consecutive bars where fast3_width_pct <= max_fast3_width_pct AND TR/ATR <= max_tr_range_atr
+# tr_range_atr = true_range / ATR(atr_window)
+# slope_pct(MA, L) = 100 * (MA_t / MA_{t-L} - 1)
