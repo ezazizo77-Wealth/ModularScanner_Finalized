@@ -1,0 +1,5 @@
+# CODEOWNERS file for ModularScanner_Finalized
+# This ensures Amy must review all PRs to main
+
+# Apply to everything in the repo
+* @Amy
