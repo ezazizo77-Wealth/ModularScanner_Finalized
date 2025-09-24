@@ -1,0 +1,5 @@
+# CODEOWNERS file for ModularScanner_Finalized
+# Ensures that only Aziz (main account) and one backup account can approve merges into main.
+
+# Apply to everything in the repo
+*   @ezazizo77-Wealth   @am4financialfreedom-AI
