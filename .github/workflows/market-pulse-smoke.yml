@@ -1,0 +1,37 @@
+name: market-pulse-smoke
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ feature/**, fix/**, exp/** ]
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      # Temporary ultra-light gate: prove the code imports
+      - name: Import test
+        run: |
+          python - << 'PY'
+          import sys
+          import pathlib
+          sys.path.append(str(pathlib.Path(".").resolve()))
+          import market_pulse  # must not crash on import
+          print("Import OK")
+          PY
